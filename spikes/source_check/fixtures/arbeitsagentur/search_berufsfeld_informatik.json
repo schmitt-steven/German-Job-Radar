@@ -1,0 +1,905 @@
+[
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Software Entwickler und Projektmanager (m/w/d)",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-19"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 65000.0,
+    "gehaltsspanneBis": 85000.0,
+    "vertragsdauer": "KEINE_ANGABE",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Friedrich-Ebert-Str.",
+          "hausnummer": "75",
+          "adresszusatz": "Technologie Park",
+          "plz": "51429",
+          "ort": "Bergisch Gladbach",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.959728,
+        "laenge": 7.185294
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-19"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-19",
+    "aenderungsdatum": "2026-10-19T08:52:48.857",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "firma": "Safran Data Systems GmbH",
+    "arbeitgeberKundennummerHash": "d8i5pheP4sCarwFddnuXwR4Hzak_FcculKephqo1hQI=",
+    "referenznummer": "10001-1003874193-S",
+    "entfernung": 15,
+    "alleBerufe": [
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Softwareentwickler (m/w/d) SPS",
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-06"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.9455298,
+        "laenge": 6.970144
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-06"
+    },
+    "datumErsteVeroeffentlichung": "2025-06-02",
+    "aenderungsdatum": "2026-10-06T08:29:23.142",
+    "hauptberuf": "SPS-Ingenieur/in",
+    "firma": "F mal s GmbH",
+    "arbeitgeberKundennummerHash": "f6idz9k1WgCwHA-UZlZCJ9tHMESvCnQ5JeJOmsCQS-s=",
+    "referenznummer": "10001-1001471257-S",
+    "entfernung": 1,
+    "alleBerufe": [
+      "SPS-Ingenieur/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Software Entwickler C (m/w/d)",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-16"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Papiermühle",
+          "hausnummer": "1",
+          "plz": "51766",
+          "ort": "Engelskirchen",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.0143327,
+        "laenge": 7.434391
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-08-31"
+    },
+    "datumErsteVeroeffentlichung": "2026-08-31",
+    "aenderungsdatum": "2026-10-16T09:56:58.040",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "alternativBeruf1": "Industriemeister/in - Elektrotechnik (Elektronik)",
+    "alternativBeruf2": "Informationselektroniker/in (mit Schwerpunkten)",
+    "firma": "MDT technologies GmbH",
+    "arbeitgeberKundennummerHash": "s56LKkgMLh_tf9sOBJzZesxbgfC52OmNzws_URSxhtI=",
+    "referenznummer": "10001-1003628068-S",
+    "entfernung": 33,
+    "alleBerufe": [
+      "Embedded-Systems-Entwickler/in",
+      "Industriemeister/in - Elektrotechnik (Elektronik)",
+      "Informationselektroniker/in (mit Schwerpunkten)"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Softwareentwickler (m/w/d) Cloud",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-20"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Monheim am Rhein",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.0980707,
+        "laenge": 6.8910176
+      }
+    ],
+    "homeofficemoeglich": false,
+    "chiffrenummer": "DE-0040106",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-20"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-20",
+    "aenderungsdatum": "2026-10-20T14:25:15.645",
+    "hauptberuf": "Informatiker/in",
+    "firma": "EPLAN GmbH & Co. KG",
+    "arbeitgeberKundennummerHash": "xKIuZfKeBQlE80OJ3uRtFx6IR_sM9kbCloKzb3--NQ0=",
+    "referenznummer": "10000-1208357421-S",
+    "entfernung": 17,
+    "alleBerufe": [
+      "Informatiker/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Softwareentwickler (m/w/d) – Köln",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-14"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "FESTGEHALT",
+    "festgehalt": 82586.0,
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.9455298,
+        "laenge": 6.970144
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-14"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-14",
+    "aenderungsdatum": "2026-10-14T15:54:57.748",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "firma": "Primegate Consulting GmbH",
+    "arbeitgeberKundennummerHash": "qyfvRiLDlRzPrMaxGwLpiX-fBFSeHREDl42wSvE0HTs=",
+    "referenznummer": "21206-2610147500402-S",
+    "entfernung": 1,
+    "alleBerufe": [
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Senior Softwareentwickler:in im Consulting",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-02"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Konrad-Adenauer-Ufer",
+          "hausnummer": "7",
+          "plz": "50668",
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.9449791,
+        "laenge": 6.9627135
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-06-01"
+    },
+    "datumErsteVeroeffentlichung": "2025-05-14",
+    "aenderungsdatum": "2026-10-02T11:12:00.093",
+    "hauptberuf": "Informatiker/in",
+    "firma": "viadee Unternehmensberatung AG",
+    "arbeitgeberKundennummerHash": "ze09QsDO0k5ZqvEmGPIUJpRfuFEuQGzTmE_vInalH8k=",
+    "referenznummer": "10000-1202502748-S",
+    "entfernung": 1,
+    "alleBerufe": [
+      "Informatiker/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Softwareentwickler (w/m/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-19"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Wuppertal",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.248607749,
+        "laenge": 7.165857324
+      }
+    ],
+    "chiffrenummer": "TR-243243",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-19"
+    },
+    "datumErsteVeroeffentlichung": "2025-11-27",
+    "aenderungsdatum": "2026-10-19T07:42:57.483",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "firma": "Brunel GmbH NL Wuppertal",
+    "arbeitgeberKundennummerHash": "kzo4ur2tLTeiym95yMY2xsLgpjiKRcuVCBbg_Dq23SY=",
+    "referenznummer": "12362-TR-243243_588552LS-S",
+    "entfernung": 36,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Softwareentwickler (Mensch*) (m/w/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": true,
+    "arbeitszeitTeilzeitNachmittag": true,
+    "arbeitszeitTeilzeitVormittag": true,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-01"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Parkstr.",
+          "hausnummer": "10",
+          "plz": "40699",
+          "ort": "Erkrath",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.227217,
+        "laenge": 6.8949585
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-01"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-01",
+    "aenderungsdatum": "2026-10-01T12:14:12.658",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Medieninformatiker/in",
+    "alternativBeruf2": "Wirtschaftsinformatiker/in (Hochschule)",
+    "firma": "Lucom GmbH",
+    "arbeitgeberKundennummerHash": "IhhQ_RtUWUP_0hwLAqQK4PPakaG3UBD0nY-mmS2lcRU=",
+    "referenznummer": "10000-1208121247-S",
+    "entfernung": 31,
+    "alleBerufe": [
+      "Informatiker/in",
+      "Medieninformatiker/in",
+      "Wirtschaftsinformatiker/in (Hochschule)"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Softwareentwickler (m/w/d) – Düsseldorf",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-14"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "FESTGEHALT",
+    "festgehalt": 82586.0,
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.2383035,
+        "laenge": 6.8172724
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-14"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-14",
+    "aenderungsdatum": "2026-10-14T15:54:53.270",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "firma": "Primegate Consulting GmbH",
+    "arbeitgeberKundennummerHash": "qyfvRiLDlRzPrMaxGwLpiX-fBFSeHREDl42wSvE0HTs=",
+    "referenznummer": "21206-2610147500346-S",
+    "entfernung": 34,
+    "alleBerufe": [
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "SPS-Programmierer / SPS-Softwareentwickler (m/w/d) in Wuppertal",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-09-29"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "42369",
+          "ort": "Wuppertal",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.226160985,
+        "laenge": 7.200875325
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-09-29"
+    },
+    "datumErsteVeroeffentlichung": "2026-09-29",
+    "aenderungsdatum": "2026-09-29T11:48:25.167",
+    "hauptberuf": "SPS-Fachkraft",
+    "alternativBeruf1": "SPS-Ingenieur/in",
+    "firma": "BESTpro Personalkonzepte GmbH",
+    "arbeitgeberKundennummerHash": "3nVLxqsOQtvQn18aVGphM9WB-X1UbEdlfAxIzUQVky0=",
+    "referenznummer": "12057-XVIM04QSJXHP1TWO-S",
+    "entfernung": 35,
+    "alleBerufe": [
+      "SPS-Fachkraft",
+      "SPS-Ingenieur/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Software Engineering Embedded Systems (w/m/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-19"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Wuppertal",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.248607749,
+        "laenge": 7.165857324
+      }
+    ],
+    "chiffrenummer": "TR-266670",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-19"
+    },
+    "datumErsteVeroeffentlichung": "2025-10-02",
+    "aenderungsdatum": "2026-10-19T07:42:58.260",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "firma": "Brunel GmbH NL Wuppertal",
+    "arbeitgeberKundennummerHash": "kzo4ur2tLTeiym95yMY2xsLgpjiKRcuVCBbg_Dq23SY=",
+    "referenznummer": "12362-TR-266670_578083LS-S",
+    "entfernung": 36,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Sachbearbeiter/innen Application Manager/innen + Verfahrensentwicklung (m/w/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-19"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Bundesverwaltungsamt Köln",
+          "plz": "50735",
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.0083296,
+        "laenge": 6.935064
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-06"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-06",
+    "aenderungsdatum": "2026-10-19T11:13:01.881",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Fachinformatiker/in - Anwendungsentwicklung",
+    "alternativBeruf2": "Softwareentwickler/in",
+    "firma": "Bundesverwaltungsamt",
+    "arbeitgeberKundennummerHash": "FUWjmSb6X8yH8yEICtV-RWliVdtnD07XGZY24CuG_kQ=",
+    "referenznummer": "10000-1208166280-S",
+    "entfernung": 7,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in",
+      "Fachinformatiker/in - Anwendungsentwicklung"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "IT-Spezialist*in Network Security (m/w/d) Schwerpunkt Firewall und Fortinet",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": true,
+    "arbeitszeitTeilzeitVormittag": true,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-12-01"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Hauptstr.",
+          "hausnummer": "92",
+          "plz": "58332",
+          "ort": "Schwelm",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.28551,
+        "laenge": 7.29855
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-20"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-20",
+    "aenderungsdatum": "2026-10-20T10:21:57.928",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "IT-Sicherheitskoordinator/in",
+    "alternativBeruf2": "Softwareentwickler/in",
+    "firma": "Kreisverwaltung des EN-Kreises",
+    "arbeitgeberKundennummerHash": "rMidfhBLwma6YBp5EMVNlF5b3FYa2JcYVZRkFzNhNSM=",
+    "referenznummer": "10000-1208349518-S",
+    "entfernung": 44,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in",
+      "IT-Sicherheitskoordinator/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Full-Stack-Entwickler / Informatiker (m/w/d) Python, Webentwicklung, IT-Sicherheit & Automatisierung",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-09-29"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 40000.0,
+    "gehaltsspanneBis": 60000.0,
+    "vertragsdauer": "BEFRISTET",
+    "befristungInMonaten": 12,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Emil-Hoffmann-Str.",
+          "hausnummer": "53",
+          "plz": "50996",
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.866407,
+        "laenge": 6.995367
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-09-28"
+    },
+    "datumErsteVeroeffentlichung": "2026-09-28",
+    "aenderungsdatum": "2026-09-29T09:25:28.739",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Anwendungsprogrammierer/in",
+    "firma": "DWH Solutions GmbH",
+    "arbeitgeberKundennummerHash": "TE0StBEnMSNtATyBLIO_YtIAfuHGrdWo-kwdhSGl0-0=",
+    "referenznummer": "10001-1003775567-S",
+    "entfernung": 10,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in",
+      "Anwendungsprogrammierer/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Mitarbeiter*in im Bereich IT–Entwicklung (26152)",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": true,
+    "arbeitszeitTeilzeitVormittag": true,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": false,
+    "eintrittszeitraum": {
+      "von": "2026-10-15"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 26623.4,
+    "gehaltsspanneBis": 30255.81,
+    "vertragsdauer": "BEFRISTET",
+    "befristungInMonaten": 12,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Gaussstraße",
+          "hausnummer": "20",
+          "adresszusatz": "Campus Grifflenberg",
+          "plz": "42119",
+          "ort": "Wuppertal",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.245739,
+        "laenge": 7.1498205
+      }
+    ],
+    "chiffrenummer": "26152",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-15"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-15",
+    "aenderungsdatum": "2026-10-15T15:43:26.899",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "firma": "Bergische Universität Wuppertal",
+    "arbeitgeberKundennummerHash": "jaMTf4gs3Bxsa2htxSzCPApC38r5gh2uoGmUBkJuy4k=",
+    "referenznummer": "10001-1003865020-S",
+    "entfernung": 35,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Group AI & Automation Expert (m/w/d)",
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-20"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 70000.0,
+    "gehaltsspanneBis": 85000.0,
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Königsallee",
+          "hausnummer": "4",
+          "plz": "40212",
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.226254,
+        "laenge": 6.779637
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "ANGABE_IN_PROZENT",
+    "homeofficeprozent": 30,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-19"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-19",
+    "aenderungsdatum": "2026-10-20T15:19:04.014",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Wirtschaftsinformatiker/in - IT-Systeme",
+    "firma": "Heitkamp & Thumann GmbH & Co. KG",
+    "arbeitgeberKundennummerHash": "pG1Llj6jfATd_16Rzd_kwDahamgVkui1jarnV8HImw0=",
+    "referenznummer": "10001-1003876920-S",
+    "entfernung": 33,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in",
+      "Wirtschaftsinformatiker/in - IT-Systeme"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Support Engineer (m/w/d) in Direktvermittlung",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-12"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 50000.0,
+    "gehaltsspanneBis": 60000.0,
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "47877",
+          "ort": "Willich",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.263164623,
+        "laenge": 6.519928524
+      }
+    ],
+    "chiffrenummer": "VA50-85475-DUS_DI",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-12"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-12",
+    "aenderungsdatum": "2026-10-12T07:52:47.004",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Ingenieur/in - Automatisierungstechnik",
+    "firma": "FERCHAU GmbH Niederlassung Düsseldorf",
+    "arbeitgeberKundennummerHash": "x6WmkbUF6BECQ45a33Ck7cWfMLc6yk4RxJWC2rb84rs=",
+    "referenznummer": "12265-466780_JB5269609-S",
+    "entfernung": 47,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Informatiker/in",
+      "Ingenieur/in - Automatisierungstechnik"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Systemingenieur / Systems Engineer Embedded Software (m/w/d)",
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-09"
+    },
+    "verguetungsangabe": "JAHRESGEHALT",
+    "artDerVerguetung": "GEHALTSSPANNE",
+    "gehaltsspanneVon": 55000,
+    "gehaltsspanneBis": 65000,
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "40597",
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.16471642600004,
+        "laenge": 6.875427789000071
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-09"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-09",
+    "aenderungsdatum": "2026-10-09T08:02:01.012",
+    "hauptberuf": "Embedded-Systems-Entwickler/in",
+    "firma": "Profi Talent Recruitment UG PTR",
+    "arbeitgeberKundennummerHash": "noCDMcVZ9z5OcswPsx14OyXfeptBsrvyi1FOUwot1yI=",
+    "referenznummer": "10001-1003829715-S",
+    "entfernung": 25,
+    "alleBerufe": [
+      "Embedded-Systems-Entwickler/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "MES Techlead / Softwarearchitekt (m/w/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-16"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Aluminiumstr.",
+          "hausnummer": "1",
+          "plz": "41515",
+          "ort": "Grevenbroich",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.078825,
+        "laenge": 6.6165975
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-04-27"
+    },
+    "datumErsteVeroeffentlichung": "2026-04-27",
+    "aenderungsdatum": "2026-10-16T10:18:19.100",
+    "hauptberuf": "Informatiker/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Software-Architect",
+    "firma": "Speira GmbH Headquarters",
+    "arbeitgeberKundennummerHash": "ZGpYjgoSHS7pheTKLTrI99cqLpUDsWrXe3cvFukf7vo=",
+    "referenznummer": "10000-1206302660-S",
+    "entfernung": 28,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Software-Architect",
+      "Informatiker/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Programmierer & AI-Experte (m/w/d) – Softwareentwicklung & Künstliche Intelligenz",
+    "quereinstiegGeeignet": true,
+    "weitereBerufe": [
+      "Programierer",
+      "Softwareentwickler",
+      "KI- Experte"
+    ],
+    "arbeitszeitTeilzeitNachmittag": true,
+    "arbeitszeitTeilzeitVormittag": true,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-20"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Im Gansbruch",
+          "hausnummer": "1",
+          "plz": "52441",
+          "ort": "Linnich",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.981049,
+        "laenge": 6.285024
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-20"
+    },
+    "datumErsteVeroeffentlichung": "2026-09-29",
+    "aenderungsdatum": "2026-10-20T09:14:53.992",
+    "hauptberuf": "KI-Prompter",
+    "alternativBeruf1": "Anwendungsprogrammierer/in",
+    "alternativBeruf2": "Systemprogrammierer/in",
+    "firma": "c:consult GmbH",
+    "arbeitgeberKundennummerHash": "SfZCdRhwcK8IJsoZmSjVU8faUOTE9h2WQj_tXVyTI-A=",
+    "referenznummer": "10001-1003781449-S",
+    "entfernung": 48,
+    "alleBerufe": [
+      "Softwareentwickler",
+      "KI-Prompter",
+      "Anwendungsprogrammierer/in",
+      "Systemprogrammierer/in",
+      "Programierer",
+      "KI- Experte"
+    ]
+  }
+]

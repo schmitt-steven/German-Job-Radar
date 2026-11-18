@@ -1,0 +1,47 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Software Entwickler C/C++ (m/w/d)",
+  "quereinstiegGeeignet": false,
+  "stellenangebotsBeschreibung": "WOFÜR WIR SIE SUCHEN\n\nFür unsere Entwicklungsabteilung in Lohmar suchen wir Sie für folgende Tätigkeiten:\n\n * Durchführung von Software-in-the-Loop-, (SiL) und Hardware-in-the-Loop-Tests (HiL)\n * Anbindung von externen Sensoren und Aktuatoren an unser Schutzsystem StrikeShield\n * Pflege und Weiterentwicklung unserer Bestandssoftware\n * Mitarbeit in der Entwicklung von sicherheitskritischer und echtzeitnaher Softwareentwicklung\n\n* Erfolgreich abgeschlossenes Studium, z.B. im Bereich der Informatik oder Informationstechnologie\n * Einschlägige Erfahrung in der Embedded-Programmierung sowie in der funktionalen Sicherheit\n * Gute C/C++-Programmierkenntnisse sowie Grundkenntnisse in der Radartechnik\n * Fundierte Kenntnisse in Skriptsprachen wie Bash, Python oder PowerShell\n * Engagierte und selbstständige Arbeitsweise sowie ein sicheres Auftreten\n * Sehr gute Deutsch und gute Englischkenntnisse in Wort und Schrift\n\nAn unserem Standort in Lohmar bieten wir Ihnen:\n\n * Mitarbeiteraktienkaufprogramm\n * Mobiles Arbeiten (anteilig) und flexible Arbeitszeitmodelle\n * Attraktive Vergütung\n * Urban Sport Club\n * Corporate Benefits Plattform\n * VIVA-Familienservice\n * Betriebliche Altersvorsorge\n * Individuelle und vielfältige externe sowie interne Weiterentwicklungsmöglichkeiten, u.a. in der Rheinmetall Academy\n * Professioneller Einarbeitungsprozess begleitet durch ein digitales Onboarding-Tool",
+  "arbeitszeitSchichtNachtWochenende": false,
+  "arbeitszeitTeilzeitAbend": false,
+  "arbeitszeitTeilzeitNachmittag": false,
+  "arbeitszeitTeilzeitVormittag": false,
+  "arbeitszeitTeilzeitFlexibel": false,
+  "arbeitszeitVollzeit": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-16"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "UNBEFRISTET",
+  "istGeringfuegigeBeschaeftigung": false,
+  "istBehinderungGefordert": false,
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "plz": "53797",
+        "ort": "Lohmar, Rheinland",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.8681623,
+      "laenge": 7.2515631
+    }
+  ],
+  "homeofficemoeglich": false,
+  "chiffrenummer": "DE19697",
+  "istPrivateArbeitsvermittlung": false,
+  "istArbeitnehmerUeberlassung": false,
+  "veroeffentlichungszeitraum": {
+    "von": "2026-07-17"
+  },
+  "datumErsteVeroeffentlichung": "2026-07-17",
+  "aenderungsdatum": "2026-10-16T10:00:53.560",
+  "istBetreut": true,
+  "hauptberuf": "Softwareentwickler/in",
+  "firma": "Rheinmetall AG",
+  "arbeitgeberKundennummerHash": "mDtoRsc-Vw0swe56F2UrizVz-AWYNSy7i3tzAduv66s=",
+  "allianzpartnerUrl": "www.rheinmetall.com",
+  "allianzpartnerName": "Rheinmetall AG",
+  "referenznummer": "15939-BB-634433-7878-7583-S"
+}

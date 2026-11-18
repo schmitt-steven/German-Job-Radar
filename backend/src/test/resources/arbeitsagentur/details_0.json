@@ -1,0 +1,47 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Software-Entwickler:in",
+  "quereinstiegGeeignet": false,
+  "stellenangebotsBeschreibung": "HDI AG\nDeine Aufgaben\n\n  *  Entwicklung des Verwaltungssystems für Restschuldversicherungen (ReSy) im Java-Ökosystem sowie Umsetzung von Backend- und Frontend-Lösungen mit JavaScript, TypeScript und gängigen Frameworks\n  *  Entwicklung und Pflege von REST- und SOAP-Webservices sowie Integration von ReSy über standardisierte Schnittstellen in bestehende Systemlandschaften\n  *  Konzeption und Weiterentwicklung ereignisgesteuerter Architekturen und des Datenaustauschs über Message Broker wie Apache Kafka oder RabbitMQ\n  *  Entwicklung datenbankbasierter Lösungen sowie Unterstützung von Datenmigrationen, Historisierung und Migrationsskripten\n  *  Weiterentwicklung von Cloud-, Container- und CI/CD-Lösungen unter Einsatz moderner Infrastrukturen und Automatisierungswerkzeuge\n  *  Überführung fachlicher Anforderungen in technische IT-Konzepte unter Berücksichtigung von Versicherungs- und Bestandsführungsprozessen\n  *  Sicherstellung der Softwarequalität durch automatisierte Unit-, Integrations- und End-to-End-Tests sowie Zusammenarbeit in einem agilen Team\n\n\nDein Profil\n\n  *  Abgeschlossene Ausbildung als Fachinformatiker:in für Anwendungsentwicklung, Studium der Informatik oder Wirtschaftsinformatik beziehungsweise eine vergleichbare Qualifikation\n  *  Fundierte Kenntnisse in Java und Jakarta EE, idealerweise ergänzt durch Spring Boot oder Quarkus, sowie Erfahrung mit JavaScript, TypeScript und Angular oder React\n  *  Sicherer Umgang mit REST, SOAP, JSON, XML und HTTP sowie Erfahrung mit Message Brokern wie Apache Kafka oder RabbitMQ\n  *  Sehr gute SQL-Kenntnisse sowie Erfahrung mit PostgreSQL oder Oracle, Datenmigrationen und Migrationswerkzeugen wie Flyway oder Liquibase\n  *  Kenntnisse in Docker, Kubernetes oder OpenShift, Public-Cloud-Plattformen sowie CI/CD, beispielsweise mit GitLab CI, GitHub Actions oder Jenkins\n  *  Erfahrung mit automatisierten Testverfahren sowie entsprechenden Werkzeugen wie JUnit, Selenium oder Cypress\n  *  Verständnis komplexer Versicherungs- und Bestandsführungsprozesse sowie idealerweise Erfahrung mit KI-gestützten Werkzeugen in der Softwareentwicklung",
+  "arbeitszeitSchichtNachtWochenende": false,
+  "arbeitszeitTeilzeitAbend": true,
+  "arbeitszeitTeilzeitNachmittag": true,
+  "arbeitszeitTeilzeitVormittag": true,
+  "arbeitszeitTeilzeitFlexibel": false,
+  "arbeitszeitVollzeit": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-20"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "KEINE_ANGABE",
+  "istGeringfuegigeBeschaeftigung": false,
+  "istBehinderungGefordert": false,
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "plz": "40721",
+        "ort": "Hilden",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.1703281,
+      "laenge": 6.9170333
+    }
+  ],
+  "homeofficemoeglich": false,
+  "chiffrenummer": "1415",
+  "istPrivateArbeitsvermittlung": false,
+  "istArbeitnehmerUeberlassung": false,
+  "veroeffentlichungszeitraum": {
+    "von": "2026-10-20"
+  },
+  "datumErsteVeroeffentlichung": "2026-10-20",
+  "aenderungsdatum": "2026-10-20T10:45:10.307",
+  "istBetreut": true,
+  "hauptberuf": "Softwareentwickler/in",
+  "firma": "HDI AG",
+  "arbeitgeberKundennummerHash": "_MtEKTYVrAIzJZKx3ogPa2KbGy83QsEHwjAWvtLqRY4=",
+  "allianzpartnerUrl": "https://careers.hdi.group",
+  "allianzpartnerName": "HDI AG",
+  "referenznummer": "19376-44518786-1019-S"
+}

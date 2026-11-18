@@ -1,0 +1,117 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "IT-Systemadministrator:in",
+  "stellenangebotsBeschreibung": "Hast du Lust, in einem nicht mehr ganz so kleinem Team zu arbeiten und selbständig und proaktiv eigene Ideen einzubringen? Wir sind der stark wachsende Marktführer der Praxissoftware tomedo (www.tomedo.de) für Mac, iPhone und iPad und haben große Ziele und sind immer für neue Ideen offen – egal ob im Medizinbereich oder anderswo. Unser Anspruch liegt dabei darin, die Träume unserer nicht-technischen Anwender (i.d.R. Ärzte und andere medizinische Fachkräfte) mit Kreativität in technisch umsetzbare Konzepte umzuwandeln, um diese dann unter Beachtung von Bedienungsfreundlichkeit, Skalierbarkeit und Laufzeitsicherheit zu implementieren.\n\nWO DU MIT ANPACKEN KANNST\n\n- Du übernimmst als Systemadministrator die Installation von Arbeitsplatz- und Serversystemen und hast Spaß am Konzipieren, Implementieren und Administrieren neuer Lösungen.\n- Die Konfiguration neuer (meist Mac-)Hardware steht ebenfalls auf Deinem Programmplan.\n- Du kümmerst Dich zudem um bestehende Datenbanken und die dazugehörigen Backup- und Recoveryfunktionen.\n- Auftretende Probleme und Fehler werden von Dir selbstständig angegangen und falls notwendig mit Unterstützung unserer Entwickler und Techniker gelöst.\n- Im Kontakt mit unseren Kunden gibt es für Dich keine dummen Fragen, Du erklärst auch dem hartnäckigsten Laien technische Sachverhalte verständlich und bleibst immer wertschätzend.\n- Um in dieser Position bei uns durchstarten zu können, musst Du nicht zwangsläufig in Thüringen wohnen, denn wir suchen deutschlandweit tatkräftige Unterstützung. Unsere Kolleginnen und Kollegen arbeiten dabei meist kombiniert von Zuhause aus dem Home Office oder einem unserer Büros oder vor Ort bei Kunden und Kundinnen, was eine gewisse Reisebereitschaft auf Deiner Seite voraussetzt.\n- Einer Teilzeitanstellung steht auch grundsätzlich nichts im Wege, allerdings ​wäre es ideal, wenn Du wöchentlich mindestens 32h Deiner Zeit mit uns verbringst.\n\nWAS DU MITBRINGEN SOLLTEST\n\n- Du bist als ausgebildeter Fachinformatiker oder berufserfahrener Quereinsteiger per „Du“ mit Mac OS oder Windows Betriebssystemen, SQL Datenbanken und gängigen Scripsprachen (Bash, Perl)\n- Kenntnisse im Umgang mit Apple Produkten ist ein großer Pluspunkt, aber kein “must have” für uns\n- Du arbeitest hervorragend selbstorganisiert, eigenverantwortlich und hältst jeden Termin ein\n- Du bringst ein positives Menschenbild mit, arbeitest gut im Team und kommunizierst immer wertschätzend und lösungsorientiert.\n- Um bei uns so richtig Fuß fassen zu können, ist es zwingend notwendig, dass Du Deutsch mindestens auf C1-Niveau beherrschst.\n\nDEIN ARBEITSUMFELD BEI UNS\n\nWir sind ein offenes und ambitioniertes Team von über 500 Mitarbeitern, das Kundenorientierung wirklich lebt und gleichzeitig Spaß hat. Bei uns herrscht auch nach über 10 Jahren eine Startup-Atmosphäre, die neben dem legendären Obstkorb auch vielseitige Perks wie eine steuerfreie Shoppingkarte, Dienstrad-Leasing und Gesundheitskurse (z.B. Yoga, Rückentraining und mental Health) anbietet - sowohl online als auch im Büro.\nJe nach Einsatzgebiet (und das sind mindestens 75% aller Unternehmensbereiche) bieten wir all unseren Kollegen flexible Arbeitszeiten und Home Office an. Wir verstehen uns als eng zusammenhaltendes Team mit Kooperations- statt Wettbewerbs-Atmosphäre. Außerhalb der Arbeit organisieren wir Events wie Beachvolleyball im Sommer, Grillfeste, Kochabende oder Paddeltouren.\n\n**Deine Vorteile bei uns:**\n\n- Super Team und flache Hierarchien\n- Job Crafting/individuelle Arbeitsgestaltung\n- Flexible Arbeitszeiten\n- Weiterentwicklung\n- Homeoffice/Mobiles Arbeiten\n- Team Events\n- Förderung der physischen und psychischen Gesundheit\n- Betriebliche Altersvorsorge\n- Betriebliche Krankenversicherung\n- Dienstradleasing/Jobrad\n- Hardwareleasing\n- Mitarbeiterrabatte\n- Betreuungkostenzuschuss/ Kita-Zuschuss\n- Erholungsbeihilfe\n- Essenszuschuss\n- Fahrtkostenzuschuss\n- Auslandsarbeit\n\nÜberzeugt? Dann bewirb Dich jetzt bei uns – entweder online (https://zollsoft.de/jobs/system-netzwerkadministration/it-systemadministrator/) oder per E-Mail. Wir freuen uns auf Dich!",
+  "arbeitszeitVollzeit": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-26"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "UNBEFRISTET",
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "ort": "Düsseldorf",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.238146,
+      "laenge": 6.8173098
+    },
+    {
+      "adresse": {
+        "ort": "Berlin",
+        "region": "BERLIN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 52.4926832,
+      "laenge": 13.4025753
+    },
+    {
+      "adresse": {
+        "ort": "Dresden",
+        "region": "SACHSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.0665003,
+      "laenge": 13.7726772
+    },
+    {
+      "adresse": {
+        "ort": "Potsdam",
+        "region": "BRANDENBURG",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 52.4258315,
+      "laenge": 13.0428443
+    },
+    {
+      "adresse": {
+        "ort": "Hamburg",
+        "region": "HAMBURG",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 53.5460482,
+      "laenge": 10.0393138
+    },
+    {
+      "adresse": {
+        "ort": "Kassel, Hessen",
+        "region": "HESSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.3124127,
+      "laenge": 9.4720015
+    },
+    {
+      "adresse": {
+        "ort": "Köln",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.9478863,
+      "laenge": 6.9642163
+    },
+    {
+      "adresse": {
+        "ort": "Leipzig",
+        "region": "SACHSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.3374875,
+      "laenge": 12.3814648
+    },
+    {
+      "adresse": {
+        "ort": "Hannover",
+        "region": "NIEDERSACHSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 52.3843258,
+      "laenge": 9.7497887
+    },
+    {
+      "adresse": {
+        "ort": "Stuttgart",
+        "region": "BADEN_WUERTTEMBERG",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 48.7736796,
+      "laenge": 9.1740449
+    }
+  ],
+  "homeofficemoeglich": true,
+  "homeofficetyp": "NACH_VEREINBARUNG",
+  "veroeffentlichungszeitraum": {
+    "von": "2026-10-26"
+  },
+  "datumErsteVeroeffentlichung": "2026-03-16",
+  "aenderungsdatum": "2026-10-26T13:28:52.981",
+  "istBetreut": false,
+  "hauptberuf": "Softwareentwickler/in",
+  "firma": "zollsoft GmbH    ",
+  "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+  "allianzpartnerUrl": "http://www.arbeitsagentur.de",
+  "allianzpartnerName": "arbeitsagentur.de",
+  "referenznummer": "10001-1002773798-S"
+}

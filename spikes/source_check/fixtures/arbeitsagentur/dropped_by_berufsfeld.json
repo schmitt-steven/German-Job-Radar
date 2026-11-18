@@ -1,0 +1,357 @@
+[
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Softwareentwickler (m/w/d) für Automatisierungssysteme",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": false,
+    "eintrittszeitraum": {
+      "von": "2026-10-18"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "50129",
+          "ort": "Bergheim, Erft",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.9877084,
+        "laenge": 6.70847
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-18"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-18",
+    "aenderungsdatum": "2026-10-18T08:22:19.003",
+    "externeURL": "https://www.jobware.de/job/064631869?jw_chl_seg=ARBEITSAGENTUR",
+    "hauptberuf": "Elektroniker/in - Automatisierungstechnik (Handwerk)",
+    "firma": "SysTec Systemtechnik und Industrieautomation GmbH",
+    "referenznummer": "12908-064631869-S",
+    "entfernung": 19,
+    "alleBerufe": [
+      "Elektroniker/in - Automatisierungstechnik (Handwerk)"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Softwareentwickler Prüfsysteme (m/w/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-05"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "42279",
+          "ort": "Wuppertal",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.298455455,
+        "laenge": 7.235809137
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-05"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-05",
+    "aenderungsdatum": "2026-10-05T08:23:34.191",
+    "hauptberuf": "Ingenieur/in - Elektrotechnik",
+    "alternativBeruf1": "Ingenieur/in - Automatisierungstechnik",
+    "firma": "K.A.Schmersal GmbH & Co. KG",
+    "arbeitgeberKundennummerHash": "WcfysSg2sR5y5G0IvsG3hcr8Ldso2tCZeUWGJj-xlLo=",
+    "referenznummer": "18249-2026rthc9u2u-000-S",
+    "entfernung": 43,
+    "alleBerufe": [
+      "Ingenieur/in - Elektrotechnik",
+      "Ingenieur/in - Automatisierungstechnik"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Software Entwicklerin / Software Entwickler (m/w/d) Embedded Systems Assembler (x86) / C++ (Informa…",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": false,
+    "eintrittszeitraum": {
+      "von": "2026-10-04"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "41061",
+          "ort": "Mönchengladbach",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.1952482,
+        "laenge": 6.4364482
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "chiffrenummer": "280432",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-04"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-04",
+    "aenderungsdatum": "2026-10-04T07:13:16.070",
+    "externeURL": "https://www.get-in-engineering.de/jobsuche/p280432?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+    "hauptberuf": "Ingenieur/in - Elektrotechnik",
+    "firma": "Scheidt & Bachmann",
+    "referenznummer": "13645-280432-S",
+    "entfernung": 46,
+    "alleBerufe": [
+      "Ingenieur/in - Elektrotechnik"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Programmierer/Entwickler (m/w/d) Software SPS/IPC",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": false,
+    "eintrittszeitraum": {
+      "von": "2026-10-04"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "plz": "50676",
+          "ort": "Köln",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 50.9307423,
+        "laenge": 6.952315
+      }
+    ],
+    "homeofficemoeglich": false,
+    "chiffrenummer": "271960",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-10-04"
+    },
+    "datumErsteVeroeffentlichung": "2026-10-04",
+    "aenderungsdatum": "2026-10-04T07:14:25.958",
+    "externeURL": "https://www.get-in-engineering.de/jobsuche/p271960?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+    "hauptberuf": "Ingenieur/in - Automatisierungstechnik",
+    "firma": "MGA Ingenieurdienstleistungen GmbH",
+    "referenznummer": "13645-271960-S",
+    "entfernung": 3,
+    "alleBerufe": [
+      "Ingenieur/in - Automatisierungstechnik"
+    ]
+  },
+  {
+    "stellenangebotsart": "SELBSTAENDIGKEIT",
+    "stellenangebotsTitel": "Softwaretester:in",
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-26"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Graf-Adolf-Str.",
+          "hausnummer": "67",
+          "plz": "40210",
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.2189116,
+        "laenge": 6.7866524
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-09-29"
+    },
+    "datumErsteVeroeffentlichung": "2025-02-10",
+    "aenderungsdatum": "2026-09-29T10:39:30.560",
+    "hauptberuf": "Qualitätsmanager/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Business-Analyst/in",
+    "firma": "alfatraining Bildungszentrum GmbH",
+    "arbeitgeberKundennummerHash": "B1uI-VVbWW1P5U3F8Dc8FWLNlcfpehFSi__pNJ8EbIo=",
+    "referenznummer": "10000-1183466875-S",
+    "entfernung": 32,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Qualitätsmanager/in",
+      "Business-Analyst/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "SELBSTAENDIGKEIT",
+    "stellenangebotsTitel": "UI Design Advanced",
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-10-26"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Graf-Adolf-Str.",
+          "hausnummer": "67",
+          "plz": "40210",
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.2189116,
+        "laenge": 6.7866524
+      }
+    ],
+    "homeofficemoeglich": true,
+    "homeofficetyp": "NACH_VEREINBARUNG",
+    "veroeffentlichungszeitraum": {
+      "von": "2026-09-29"
+    },
+    "datumErsteVeroeffentlichung": "2025-01-27",
+    "aenderungsdatum": "2026-09-29T08:56:28.503",
+    "hauptberuf": "Webdesigner/in",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "alternativBeruf2": "Interfacedesigner/in",
+    "firma": "alfatraining Bildungszentrum GmbH",
+    "arbeitgeberKundennummerHash": "B1uI-VVbWW1P5U3F8Dc8FWLNlcfpehFSi__pNJ8EbIo=",
+    "referenznummer": "10001-1000912157-S",
+    "entfernung": 32,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Webdesigner/in",
+      "Interfacedesigner/in"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Werkstudent Digitale Transformation (m/w/d)",
+    "quereinstiegGeeignet": false,
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": true,
+    "arbeitszeitTeilzeitVormittag": true,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": true,
+    "eintrittszeitraum": {
+      "von": "2026-09-21"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "KEINE_ANGABE",
+    "istGeringfuegigeBeschaeftigung": false,
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "strasse": "Stettiner Str",
+          "hausnummer": "4",
+          "plz": "41460",
+          "ort": "Neuss",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.206184,
+        "laenge": 6.7103145
+      }
+    ],
+    "homeofficemoeglich": false,
+    "veroeffentlichungszeitraum": {
+      "von": "2026-08-18"
+    },
+    "datumErsteVeroeffentlichung": "2026-08-18",
+    "aenderungsdatum": "2026-09-21T10:56:18.737",
+    "hauptberuf": "Berater/in - digitale Transformation",
+    "alternativBeruf1": "Softwareentwickler/in",
+    "firma": "Inotec Industrieanlagentechnik GmbH",
+    "arbeitgeberKundennummerHash": "_UIU4Tw_-MTDHshCMK_lCzZ7j2atC7HKsk-31FJICHs=",
+    "referenznummer": "14910-EGECK64Q03P0094Z-S",
+    "entfernung": 34,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Berater/in - digitale Transformation"
+    ]
+  },
+  {
+    "stellenangebotsart": "ARBEIT",
+    "stellenangebotsTitel": "Embedded Engineer (m/w/d) – Entwicklung & Design elektronischer Systeme in Düsseldorf",
+    "weitereBerufe": [
+      "Embedded Systems Engineer",
+      "Hardwareentwickler/in Elektronik",
+      "Elektronikingenieur/in"
+    ],
+    "arbeitszeitSchichtNachtWochenende": false,
+    "arbeitszeitTeilzeitAbend": false,
+    "arbeitszeitTeilzeitNachmittag": false,
+    "arbeitszeitTeilzeitVormittag": false,
+    "arbeitszeitTeilzeitFlexibel": false,
+    "arbeitszeitVollzeit": false,
+    "eintrittszeitraum": {
+      "von": "2025-11-10"
+    },
+    "verguetungsangabe": "KEINE_ANGABEN",
+    "vertragsdauer": "UNBEFRISTET",
+    "stellenlokationen": [
+      {
+        "adresse": {
+          "ort": "Düsseldorf",
+          "region": "NORDRHEIN_WESTFALEN",
+          "land": "DEUTSCHLAND"
+        },
+        "breite": 51.2383035,
+        "laenge": 6.8172725
+      }
+    ],
+    "veroeffentlichungszeitraum": {
+      "von": "2025-11-07"
+    },
+    "datumErsteVeroeffentlichung": "2025-11-07",
+    "aenderungsdatum": "2025-11-10T07:17:19.371",
+    "hauptberuf": "Ingenieur/in - Elektrotechnik",
+    "alternativBeruf1": "Ingenieur/in - Automatisierungstechnik",
+    "alternativBeruf2": "Softwareentwickler/in",
+    "firma": "Midzic Recruiting Einzelunternehmen",
+    "arbeitgeberKundennummerHash": "TaLOvNTUchQP5AGk9rekrkvOQzM09ZtxR68R3TT_HNY=",
+    "referenznummer": "10001-1002116144-S",
+    "entfernung": 34,
+    "alleBerufe": [
+      "Softwareentwickler/in",
+      "Ingenieur/in - Elektrotechnik",
+      "Ingenieur/in - Automatisierungstechnik",
+      "Embedded Systems Engineer",
+      "Hardwareentwickler/in Elektronik",
+      "Elektronikingenieur/in"
+    ]
+  }
+]

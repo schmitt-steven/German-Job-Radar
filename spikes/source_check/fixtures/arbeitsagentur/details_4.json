@@ -1,0 +1,86 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+  "quereinstiegGeeignet": false,
+  "stellenangebotsBeschreibung": "Die BAYOONET Group sucht \nMitdenker:innen Softwareentwickler (m/w/d) (Darmstadt, München, Berlin, Köln, Ludwigsburg – Festanstellung) \n\nDie BAYOONET Group gestaltet seit 25 Jahren maßgeschneiderte Software und Hardware in vielfältigsten Varianten. Mit Standorten in Darmstadt, München, Berlin, Ludwigsburg und Köln gehören wir zu den Top-IT-Unternehmen in Deutschland und sind verlässlicher Partner für agile und individuelle Softwareentwicklung sowie Hersteller von Softwareprodukten in den Bereichen IT-Security, IT-Management und in den regulierten Branchen Medizintechnik und Pharma. \n\nZur Verstärkung unserer Teams in den Bereichen Enterprise Software und Digital Health suchen wir ab sofort Dich als Softwareentwickler:in. \n\nNur gemeinsam im Team sind wir richtig stark – deshalb arbeiten wir in einem hybriden Modell mit drei Tagen pro Woche vor Ort am jeweiligen Standort und zwei Tagen flexibel remote. \n\nDeine Aufgaben \n\nAls Softwareentwickler (m/w/d) unterstützt Du Dein Team bei spannenden Entwicklungsprojekten unserer internationalen Kund:innen. Dein Tätigkeitsbereich umfasst die Konzeption und Entwicklung von Softwarelösungen nach agilen Softwareentwicklungsmodellen. Dabei arbeitest Du an individuellen Softwarelösungen, die reale Prozesse bei unseren Kund:innen nachhaltig verbessern – von effizienten Unternehmensanwendungen bis hin zu Software im regulierten Umfeld wie Digital Health. \n\nDein Profil \n\n * Abgeschlossenes Studium der Fachrichtung (Wirtschafts-) Informatik, Medizintechnik, Elektrotechnik, Physik, Mathematik oder vergleichbare Qualifikation \n * Du musst nicht alles können – wir suchen Generalisten (m/w/d) mit Schwerpunkt in einem der folgenden Bereiche: Cloud und Backend | Web | Mobile | Embedded und gerätenahe Entwicklung \n * Cloud und Backend (Containerisierung und Orchestrierung (Docker, Kubernetes), API-Design und Kommunikation (REST, gRPC), Event-Streaming und Messaging (Kafka, RabbitMQ), Infrastructure as Code und Deployment (Terraform, Azure DevOps Pipelines) \n * Frontend (VueJS / Angular / React / TypeScript) \n * Mobile App-Entwicklung für iOS oder Android (Swift, Kotlin) oder Cross- Plattform-Entwicklung (z. B. Kotlin Multiplatform, Flutter oder React)) \n * Gerätenahe und Embedded-Entwicklung (C, C++, Qt) sowie Erfahrung mit hardwarenaher Kommunikation \n * KI ist für uns kein Trend, sondern ein Werkzeug. Du nutzt KI-Assistenzsysteme gezielt als Performance-Booster, entwickelst Deinen Workflow weiter und weißt dabei: Geschwindigkeit ohne Qualität ist nur schneller schlechter Code \n * Bei Interesse an einer Tätigkeit bei BAYOOMED: Erfahrung im regulierten Umfeld (IEC 62304, ISO 13485, Medical Device Regulation) von Vorteil \n * Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift \n * Erfahrung mit der Entwicklung im agilen Rahmenwerk (Scrum, Kanban) ist ein Plus \n * Teamplayer (m/w/d) mit Eigeninitiative und analytischem Denken \n\nVorteile für Mitdenker:innen \n * Vielfältige Teams aus Mitdenker:innen und Kund:innen, die kollaborativ und auf Augenhöhe zusammenarbeiten \n * Aktive Mitgestaltungsmöglichkeiten in spannenden und herausfordernden Aufgaben und Projekten \n * Positive Fehlerkultur, in der wir Erfolge feiern und unsere Zusammenarbeit kontinuierlich verbessern \n * Wachsendes Urlaubskontingent nach Firmenzugehörigkeit \n * Flexible Arbeitszeiten und -modelle, bei denen keine Arbeitsstunde verfällt \n * Freiraum für Deine eigene berufliche Entwicklung \n * Objektives Karrieremodell für Fach- oder Führungslaufbahnen \n * Unsere BAYOONIVERSITY für Erfahrungsaustausch und Weiterbildung, spannende Schulungen, Tech Talks sowie Firmenausflüge und -events \n * Flache Hierarchien in crossfunktionalen Teams \n * Leistungsorientierte Bezahlung mit Option zur betrieblichen Altersvorsorge \n * Höhenverstellbare Multiscreen-Arbeitsplätze sowie leistungsstarke Laptops \n * Bestens erreichbare Standorte mit dem ÖPNV und mit dem Auto \n * Und natürlich moderne, helle Büros, Themen-Meetingräume, frisches Obst, Kaffee und Getränke \n\nHaben wir Dein Interesse geweckt? \n\nDann schaue gerne für weitere Informationen auf unserer Karriereseite vorbei oder sende Deine Bewerbungsunterlagen mit Deiner Gehaltsvorstellung und dem frühestmöglichen Einstiegstermin an jobs@bayoo.net. \n\nBAYOONET AG | Europaplatz 5 | 64293 Darmstadt | Tel.: +49 (0) 61 518618-333",
+  "arbeitszeitSchichtNachtWochenende": false,
+  "arbeitszeitTeilzeitAbend": false,
+  "arbeitszeitTeilzeitNachmittag": false,
+  "arbeitszeitTeilzeitVormittag": false,
+  "arbeitszeitTeilzeitFlexibel": false,
+  "arbeitszeitVollzeit": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-12"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "KEINE_ANGABE",
+  "istGeringfuegigeBeschaeftigung": false,
+  "istBehinderungGefordert": false,
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "plz": "80331",
+        "ort": "München",
+        "region": "BAYERN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 48.1355827,
+      "laenge": 11.5739758
+    },
+    {
+      "adresse": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "BERLIN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 52.5319761,
+      "laenge": 13.3867379
+    },
+    {
+      "adresse": {
+        "plz": "64293",
+        "ort": "Darmstadt",
+        "region": "HESSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 49.8824595,
+      "laenge": 8.6305287
+    },
+    {
+      "adresse": {
+        "plz": "71634",
+        "ort": "Ludwigsburg, Württemberg",
+        "region": "BADEN_WUERTTEMBERG",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 48.9104818,
+      "laenge": 9.1715903
+    },
+    {
+      "adresse": {
+        "plz": "50667",
+        "ort": "Köln",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.938708,
+      "laenge": 6.952988
+    }
+  ],
+  "homeofficemoeglich": false,
+  "istPrivateArbeitsvermittlung": false,
+  "istArbeitnehmerUeberlassung": false,
+  "veroeffentlichungszeitraum": {
+    "von": "2026-10-12"
+  },
+  "datumErsteVeroeffentlichung": "2026-10-12",
+  "aenderungsdatum": "2026-10-12T07:56:56.882",
+  "externeURL": "https://www.yourfirm.de/job/detail/YF-48852/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+  "istBetreut": false,
+  "hauptberuf": "Softwareentwickler/in",
+  "firma": "bayoonet AG",
+  "allianzpartnerUrl": "www.yourfirm.de",
+  "allianzpartnerName": "yourfirm.de",
+  "referenznummer": "12117-YF-48852-YF-S"
+}

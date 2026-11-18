@@ -1,0 +1,47 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Software-Entwickler (w/m/d)",
+  "quereinstiegGeeignet": false,
+  "stellenangebotsBeschreibung": "## Deine Aufgaben:\n\n- Software-Architektur/-Planung\n- Auswahl von Tools, Frameworks, Third-Party-Components (auch OSS)\n- Entwicklung kundenspezifischer Fachanwendungen im Backend basierend auf .NET, C\\#\n- Ggf. Unterstützung bei der Integration der Software beim Kunden\n- Sicherstellen der Softwarequalität durch Unit-Tests\n- Unterstützung bei der Durchführung von Systemintegrationstests\n\n## Deine Qualifikationen:\n\n- Erfolgreich abgeschlossene Berufsausbildung oder Studium der Informatik oder aus dem MINT-Bereich\n- Gute Programmierkenntnisse in .NET, C\\#\n- Einschlägige Praxiserfahrung als Software Entwickler oder vergleichbares\n- Kenntnisse im Test- und Qualitätsmanagement\n- Selbstständige und zielorientierte Arbeitsweise\n- Gute Kommunikations- und Teamfähigkeit\n- Bereitschaft zur Durchführung einer Sicherheitsüberprüfung (SÜG)\n\n## Wir bieten:\n\n- Mitarbeit in einem dynamischen Team mit flachen Hierarchien\n- Zahlreiche persönliche und fachliche Weiterbildungsmöglichkeiten\n- Attraktive Benefits wie JobRad, ein vergünstigtes Deutschland-Ticket, Mitarbeiterrabatte auf große Marken sowie kostenlose Kalt- und Warmgetränke\n- Flexibles Arbeitszeitmodell\n- Überdurchschnittliche Vergütung",
+  "arbeitszeitSchichtNachtWochenende": false,
+  "arbeitszeitTeilzeitAbend": false,
+  "arbeitszeitTeilzeitNachmittag": false,
+  "arbeitszeitTeilzeitVormittag": false,
+  "arbeitszeitTeilzeitFlexibel": false,
+  "arbeitszeitVollzeit": false,
+  "eintrittszeitraum": {
+    "von": "2026-10-01"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "KEINE_ANGABE",
+  "istGeringfuegigeBeschaeftigung": false,
+  "istBehinderungGefordert": false,
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "plz": "53840",
+        "ort": "Troisdorf",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.8130862,
+      "laenge": 7.159242
+    }
+  ],
+  "homeofficemoeglich": false,
+  "chiffrenummer": "271261",
+  "istPrivateArbeitsvermittlung": false,
+  "istArbeitnehmerUeberlassung": false,
+  "veroeffentlichungszeitraum": {
+    "von": "2026-09-03"
+  },
+  "datumErsteVeroeffentlichung": "2026-09-03",
+  "aenderungsdatum": "2026-10-01T07:07:30.951",
+  "externeURL": "https://www.get-in-it.de/jobsuche/p271261?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+  "istBetreut": false,
+  "hauptberuf": "Anwendungsprogrammierer/in",
+  "firma": "Schönhofer SALES AND ENGINEERING",
+  "allianzpartnerUrl": "www.get-in-IT.de",
+  "allianzpartnerName": "get in GmbH",
+  "referenznummer": "13644-271261-S"
+}

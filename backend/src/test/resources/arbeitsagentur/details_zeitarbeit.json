@@ -1,0 +1,44 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Software Engineer (m/w/d) Java & Angular",
+  "stellenangebotsBeschreibung": "Wir suchen **ab sofort** oder **spätestens für den 19.11.2026** einen Software Engineer (m/w/d) in **Köln**.\n\n**Aufgaben:**\n\n- Weiterentwicklung und Modernisierung einer bestehenden Anwendung zur Marktrechnungskontrolle\n- Schrittweise Migration des Frontends von Apache Wicket auf Angular\n- Umsetzung fachlicher Redesigns und funktionaler Erweiterungen\n- Entwicklung und Integration von Backend-Funktionalitäten auf Basis von Java\n- Anbindung von Backend-Systemen an moderne Web-Frontends einschließlich Authentifizierungsverfahren wie OAuth\n- Enge Zusammenarbeit mit Fachbereichen, Product Teams und weiteren Entwicklungseinheiten\n- Aktive Mitgestaltung einer intuitiven, effizienten und benutzerfreundlichen Anwendung\n- Sicherstellung einer hohen Softwarequalität durch Clean Code, Test-Driven Development und Pair Programming\n- Mitarbeit an Build-, Deployment- und Entwicklungsprozessen\n- Proaktive Identifikation technischer Verbesserungspotenziale und eigenständige Entwicklung von Lösungsansätzen\n\n**Anforderungen:**\n\n- Mindestens 2 Jahre praktische Erfahrung in der Softwareentwicklung mit Java\n- Mindestens 2 Jahre Erfahrung in der Frontend-Entwicklung mit Angular\n- Erfahrung in der Integration von Backend-Systemen in Web-Frontends, einschließlich Authentifizierung\n- Praktische Erfahrung mit Test-Driven Development und Pair Programming\n- Gute Kenntnisse moderner Entwicklungs-, Build- und Deployment-Werkzeuge: Git und GitLab Pipelines, Maven und NPM, Docker und Helm\n- Kenntnisse im Umgang mit Spring und Kubernetes\n- Deutsch- und Englischkenntnisse für die Zusammenarbeit im Projektumfeld",
+  "arbeitszeitSchichtNachtWochenende": false,
+  "arbeitszeitTeilzeitAbend": false,
+  "arbeitszeitTeilzeitNachmittag": false,
+  "arbeitszeitTeilzeitVormittag": false,
+  "arbeitszeitTeilzeitFlexibel": false,
+  "arbeitszeitVollzeit": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-26"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "UNBEFRISTET",
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "plz": "50667",
+        "ort": "Köln",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.938708,
+      "laenge": 6.952988
+    }
+  ],
+  "homeofficemoeglich": true,
+  "homeofficetyp": "ANGABE_IN_PROZENT",
+  "homeofficeprozent": 40,
+  "istArbeitnehmerUeberlassung": true,
+  "veroeffentlichungszeitraum": {
+    "von": "2026-10-23"
+  },
+  "datumErsteVeroeffentlichung": "2026-10-23",
+  "aenderungsdatum": "2026-10-26T14:54:59.211",
+  "istBetreut": true,
+  "hauptberuf": "Softwareentwickler/in",
+  "firma": "YER Talents GmbH",
+  "arbeitgeberKundennummerHash": "EtRsp7CyOYWlHaEMw5DLV2F4cVVuz2VFPXEDCJBSHfQ=",
+  "allianzpartnerUrl": "http://www.arbeitsagentur.de",
+  "allianzpartnerName": "arbeitsagentur.de",
+  "referenznummer": "10001-1003906543-S"
+}

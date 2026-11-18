@@ -1,0 +1,8 @@
+.DS_Store
+backend/src/main/resources/static/
+desktop/node_modules/
+__pycache__/
+.vscode/
+design/
+spikes/icon_compare/
+spikes/source_check/FINDINGS.md

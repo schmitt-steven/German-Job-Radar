@@ -1,0 +1,64 @@
+/* Values from the comment in design/job-radar-app.html, which wins on values. Dark only. */
+:root {
+  color-scheme: dark;
+
+  --bg-page: #12110f;
+  --bg-sidebar: #1f1d1a;
+  --bg-card: #1d1b18;
+  --bg-card-hover: #221f1c;
+  --bg-details: #24211d;
+  /* The same color without alpha, so gradients to it don't pass through dark transparent black. */
+  --bg-details-clear: rgba(36, 33, 29, 0);
+  /* Inverse corners joining a selected card to the details panel, 14px radius plus 1px overlap into the card. SVG stays smooth at any zoom. */
+  --mask-corner-above: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 15'><path d='M14 0A14 14 0 0 1 0 14V15H14Z'/></svg>");
+  --mask-corner-below: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 15'><path d='M0 0H14V15A14 14 0 0 0 0 1Z'/></svg>");
+  --bg-ai-panel: #33302b;
+  --bg-dialog: #2a2723;
+  --bg-input: #201e1b;
+  --bg-input-focus: #24221e;
+  --bg-select: #1e1c19;
+
+  --text-strong: #f8f6f1;
+  --text: #f2efe9;
+  --text-secondary: #dbd7cf;
+  --text-secondary-alt: #e2ded6;
+  --text-muted: #bfb8ac;
+  --text-dim: #9e978c;
+  --text-dimmer: #7d766c;
+  --text-faint: #6e6860;
+
+  --fit-high: #a3d9b8;
+  --fit-medium: #6fa388;
+  --fit-low: #6e6860;
+  --red: #e5736f;
+  --red-text: #f0a29e;
+  --red-text-soft: #dda6a1;
+
+  --line-faint: rgba(255, 255, 255, 0.05);
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.12);
+  --focus-ring: rgba(255, 236, 210, 0.55);
+
+  --font-ui: 'Instrument Sans', system-ui, sans-serif;
+  --font-display: 'Asul', Georgia, serif;
+  --font-size: 14px;
+  --line-height: 1.45;
+
+  --radius-panel: 16px;
+  --radius-card: 12px;
+  --radius-button: 10px;
+  --radius-control: 8px;
+  --radius-chip: 7px;
+  --radius-pill: 999px;
+
+  --shadow-panel: 0 1px 2px rgba(10, 6, 2, 0.35), 0 12px 32px -8px rgba(10, 6, 2, 0.5),
+    0 32px 64px -24px rgba(10, 6, 2, 0.45);
+  --shadow-card: 0 1px 2px rgba(10, 6, 2, 0.3), 0 4px 14px -4px rgba(10, 6, 2, 0.35);
+  --shadow-card-hover: 0 2px 4px rgba(10, 6, 2, 0.3), 0 14px 30px -10px rgba(10, 6, 2, 0.55);
+
+  /* Wide layout (columns that scroll on their own) starts at 1220px, where the three columns fit. Media queries can't read variables, so it is repeated there. */
+  --top-bar-height: 65px;
+  --columns-gap: 12px;
+  --columns-padding-top: 4px;
+  --columns-padding-bottom: 12px;
+}

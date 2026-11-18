@@ -1,0 +1,66 @@
+{
+  "stellenangebotsart": "ARBEIT",
+  "stellenangebotsTitel": "Software-Entwickler (m/w/d)",
+  "stellenangebotsBeschreibung": "### **HIER BRINGST DU DICH EIN**\n\nDu pflegst und entwickelst unsere SoftwareDA2N zur Berechnung und Bemessung imMetallleichtbau weiter. Du implementierstFeatures, behebst Bugs, erstellst die jähr-lichen Updates und unterstützt den Support.Im Team kümmerst du dich um Projekt-verwaltung, Code-Reviews und Release-Planung und stimmst dich mit Kolleg\\*innenaus Vertrieb und Konstruktion ab.\n\n### **DAS IST UNS WICHTIG**\n\n- mehrjährige Erfahrung in der Softwareentwicklung\n- Erfahrung mit Visual C / C++ oder C# / .NET\n- Kenntnisse in Versionsverwaltung (Git),Build-/Release-Prozessen und Unit-Tests\n- Selbständige, sorgfältige und strukturierte Arbeitsweise\n- Freude an Problemlösungen, Hilfsbereitschaft undgutes Service- und Qualitätsempfinden\n- respektvoller und kollegialer Umgang▪ gute Deutsch- und Englischkenntnisse in Wort und Schrift\n\n### **SCHÖN, WENN DU AUSSERDEM MIBRINGST**\n\n- Erfahrung in Team-Entwicklung und Projektverwaltung(zum Beispiel Jira, Azure DevOps)\n- Interesse an KI und deren Anwendung\n- Interesse an Tragwerksplanung und Bemessung. Vorkenntnisse im Metallleichtbau brauchst du nicht, wir arbeiten dich gründlich ein.\n\n### **DARUM SOLLTEST DU BEI UNS EINSTEIGEN**\n\n- 20 Stunden pro Woche, flexibel einteilbar - Familienfreundlichz. B. an vier Vormittagen, an drei vollen Tagen oder passend zu Kita- und Schulzeiten\n- Teilweise Homeoffice und flexible Arbeitszeiten\n- Flache Hierarchien, ein offenes, entspanntes Team und kurze Entscheidungswege\n- Moderne Entwicklungsumgebung, leistungsfähige Hardware und Tools\n- Strukturierte Einarbeitung in DA2N und die fachlichen Grundlagen\n\n### **ÜBER UNS**\n\nWir sind ein traditionsreiches Ingenieurbüro mit über 65 Jahren Erfahrung im Brücken- und Ingenieurbau sowie anspruchsvollenHoch- und Industriebauten. Im Bereich Leichtbau vertreiben wirdie Software DA2N und verbinden Ingenieurwissen mitpragmatischer Softwareentwicklung. Wir sind offen, entspanntund freuen uns auf Menschen, die mitdenken und mitgestaltenwollen.\n\nBitte schick uns deine Unterlagen (Anschreiben, Lebenslauf, relevante Zeugnisse) über unser Bewerbungsportal und gib dabei unbedingt deine Gehaltsvorstellung (Bruttojahresgehalt bei 20 Std./Woche bzw. Stundensatz bei frei-beruflicher Zusammenarbeit) an.",
+  "arbeitszeitTeilzeitNachmittag": true,
+  "arbeitszeitTeilzeitVormittag": true,
+  "eintrittszeitraum": {
+    "von": "2026-10-15"
+  },
+  "verguetungsangabe": "KEINE_ANGABEN",
+  "vertragsdauer": "UNBEFRISTET",
+  "stellenlokationen": [
+    {
+      "adresse": {
+        "strasse": "Abraham-Lincoln-Str.",
+        "hausnummer": "46",
+        "plz": "65189",
+        "ort": "Wiesbaden",
+        "region": "HESSEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.066658,
+      "laenge": 8.2703655
+    },
+    {
+      "adresse": {
+        "strasse": "Humpertstr.",
+        "hausnummer": "11a",
+        "plz": "58097",
+        "ort": "Hagen, Westfalen",
+        "region": "NORDRHEIN_WESTFALEN",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 51.36948,
+      "laenge": 7.4796975
+    },
+    {
+      "adresse": {
+        "strasse": "Marktplatz",
+        "hausnummer": "10",
+        "plz": "53545",
+        "ort": "Linz am Rhein",
+        "region": "RHEINLAND_PFALZ",
+        "land": "DEUTSCHLAND"
+      },
+      "breite": 50.565762,
+      "laenge": 7.2814095
+    }
+  ],
+  "homeofficemoeglich": true,
+  "homeofficetyp": "NACH_VEREINBARUNG",
+  "veroeffentlichungszeitraum": {
+    "von": "2026-10-15"
+  },
+  "datumErsteVeroeffentlichung": "2026-09-15",
+  "aenderungsdatum": "2026-10-15T09:26:56.749",
+  "istBetreut": false,
+  "hauptberuf": "Softwareentwickler/in",
+  "alternativBeruf1": "Berufsspezialist/in - Softwareentwicklung",
+  "alternativBeruf2": "Anwendungsprogrammierer/in",
+  "firma": "Weihermüller & Vogel GmbH",
+  "arbeitgeberKundennummerHash": "-piCtkVh5TDzwisUGfkrJ9qRS1verBmX1CEoZWTVJdM=",
+  "allianzpartnerUrl": "http://www.arbeitsagentur.de",
+  "allianzpartnerName": "arbeitsagentur.de",
+  "referenznummer": "10001-1003706308-S"
+}

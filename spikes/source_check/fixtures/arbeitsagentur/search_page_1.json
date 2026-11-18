@@ -1,0 +1,4920 @@
+{
+  "ergebnisliste": [
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software-Entwickler:in",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40721",
+            "ort": "Hilden",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1703281,
+          "laenge": 6.9170333
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "1415",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T10:45:10.307",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "HDI AG",
+      "arbeitgeberKundennummerHash": "_MtEKTYVrAIzJZKx3ogPa2KbGy83QsEHwjAWvtLqRY4=",
+      "referenznummer": "19376-44518786-1019-S",
+      "entfernung": 25,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software-Entwickler (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "53840",
+            "ort": "Troisdorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.8130862,
+          "laenge": 7.159242
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "271261",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:07:30.951",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p271261?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Schönhofer SALES AND ENGINEERING",
+      "referenznummer": "13644-271261-S",
+      "entfernung": 20,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Entwickler C/C++ (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "53797",
+            "ort": "Lohmar, Rheinland",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.8681623,
+          "laenge": 7.2515631
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "DE19697",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-17"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-17",
+      "aenderungsdatum": "2026-10-16T10:00:53.560",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Rheinmetall AG",
+      "arbeitgeberKundennummerHash": "mDtoRsc-Vw0swe56F2UrizVz-AWYNSy7i3tzAduv66s=",
+      "referenznummer": "15939-BB-634433-7878-7583-S",
+      "entfernung": 22,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software-Entwickler (m/w/d)",
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-15"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Marktplatz",
+            "hausnummer": "10",
+            "plz": "53545",
+            "ort": "Linz am Rhein",
+            "region": "RHEINLAND_PFALZ",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.565762,
+          "laenge": 7.2814095
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-15"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-15",
+      "aenderungsdatum": "2026-10-15T09:26:56.749",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Berufsspezialist/in - Softwareentwicklung",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "Weihermüller & Vogel GmbH",
+      "arbeitgeberKundennummerHash": "-piCtkVh5TDzwisUGfkrJ9qRS1verBmX1CEoZWTVJdM=",
+      "referenznummer": "10001-1003706308-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Berufsspezialist/in - Softwareentwicklung",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T07:56:56.882",
+      "externeURL": "https://www.yourfirm.de/job/detail/YF-48852/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "bayoonet AG",
+      "referenznummer": "12117-YF-48852-YF-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9455298,
+          "laenge": 6.970144
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-06"
+      },
+      "datumErsteVeroeffentlichung": "2025-06-02",
+      "aenderungsdatum": "2026-10-06T08:02:40.135",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "F mal s GmbH",
+      "arbeitgeberKundennummerHash": "f6idz9k1WgCwHA-UZlZCJ9tHMESvCnQ5JeJOmsCQS-s=",
+      "referenznummer": "10001-1001470877-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler/in (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 12,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Rolshover Str.",
+            "hausnummer": "45",
+            "plz": "51105",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.934627,
+          "laenge": 7.0013565
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-29",
+      "aenderungsdatum": "2026-10-14T14:08:24.315",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Improfy GmbH",
+      "arbeitgeberKundennummerHash": "h4Q5kd2lA9ehALfvGaNR_AsusNmDWhtIOBQ9nb8-pKA=",
+      "referenznummer": "10001-1003781693-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software-Entwickler ERP (m/w)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Kaiserstraße 40",
+            "plz": "51643",
+            "ort": "Gummersbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.027831,
+          "laenge": 7.564059
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-31",
+      "aenderungsdatum": "2026-09-29T10:05:36.698",
+      "externeURL": "https://www.heyjobs.co/de-de/jobs/3a6439f1-41d9-4664-ab05-d83b954850cc?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ABUS Kransysteme GmbH",
+      "referenznummer": "12951-3a6439f1-41d9-4664--S",
+      "entfernung": 42,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Software Entwickler und Projektmanager (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 65000.0,
+      "gehaltsspanneBis": 85000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Friedrich-Ebert-Str.",
+            "hausnummer": "75",
+            "adresszusatz": "Technologie Park",
+            "plz": "51429",
+            "ort": "Bergisch Gladbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.959728,
+          "laenge": 7.185294
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-10-19T08:52:48.857",
+      "hauptberuf": "Embedded-Systems-Entwickler/in",
+      "firma": "Safran Data Systems GmbH",
+      "arbeitgeberKundennummerHash": "d8i5pheP4sCarwFddnuXwR4Hzak_FcculKephqo1hQI=",
+      "referenznummer": "10001-1003874193-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Embedded-Systems-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Backend Software-Entwickler:in (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42283",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2718255,
+          "laenge": 7.1834781
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "151817",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:08:28.886",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p151817?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "DIVERA",
+      "referenznummer": "13644-151817-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior-Softwareentwickler (w/m/d)",
+      "weitereBerufe": [
+        "Software-Entwickler/in",
+        "Software-Developer"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Gartenstraße",
+            "hausnummer": "3",
+            "plz": "51545",
+            "ort": "Waldbröl",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.875641,
+          "laenge": 7.614207
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-12-17"
+      },
+      "datumErsteVeroeffentlichung": "2025-12-17",
+      "aenderungsdatum": "2026-10-16T10:02:07.646",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "MarkStein Software Entw. u. Vertriebs GmbH",
+      "arbeitgeberKundennummerHash": "NLCn6ZmxkyI-4frSp1aQZO9_Rj5CYXS3i9ZNbuWlIlU=",
+      "referenznummer": "10001-1002316225-S",
+      "entfernung": 46,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Software-Entwickler/in",
+        "Software-Developer",
+        "Informatiker/in",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Embedded (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 58000.0,
+      "gehaltsspanneBis": 85000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51105",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.919110974,
+          "laenge": 6.998735314
+        }
+      ],
+      "chiffrenummer": "VA77-40034-KAUTO",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T07:52:49.162",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU GmbH Niederlassung Wolfsburg Automotive",
+      "arbeitgeberKundennummerHash": "T1aqC9yX5HWAQ3uinBgTiEUz8JW5ooGRfk6Q0ZlY2KY=",
+      "referenznummer": "12265-351856_JB5269634-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Applications (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 58000.0,
+      "gehaltsspanneBis": 85000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51105",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.919110974,
+          "laenge": 6.998735314
+        }
+      ],
+      "chiffrenummer": "VA79-48666-KAUTO",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T07:52:48.985",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU GmbH Niederlassung Wolfsburg Automotive",
+      "arbeitgeberKundennummerHash": "T1aqC9yX5HWAQ3uinBgTiEUz8JW5ooGRfk6Q0ZlY2KY=",
+      "referenznummer": "12265-351811_JB5269632-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software-Entwicklerin / Software-Entwickler (m/w/d) Datenverarbeitung (Backend)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2027-01-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Mauerstrasse 51",
+            "plz": "40476",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.244497,
+          "laenge": 6.7776975
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "b8d52a1f-db8d-42b8-a8a7-52396",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-11",
+      "aenderungsdatum": "2026-10-14T07:16:25.923",
+      "hauptberuf": "Backend-Entwickler/in",
+      "firma": "Information und Technik Nordrhein-Westfalen (IT.NRW)",
+      "arbeitgeberKundennummerHash": "LyT42eg8N35NI6BLXvfa9SFpJs_eZdViZdRtVxrPbXc=",
+      "referenznummer": "15643-01-x8JktI-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "Backend-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Entwickler Java (m/w/d) [Kziff.CL64AV45]",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40472",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.27114191900006,
+          "laenge": 6.818211138000038
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2025-03-12",
+      "aenderungsdatum": "2026-09-29T11:26:08.073",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "avivar experts GmbH",
+      "arbeitgeberKundennummerHash": "R5i_y0hJLGxhJHpRIEYcWfGed9f-EvXzI9_gMsNedsQ=",
+      "referenznummer": "10001-1001237622-S",
+      "entfernung": 37,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50676",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9307423,
+          "laenge": 6.952315
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "255518",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:07:24.312",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p255518?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Explicatis",
+      "referenznummer": "13644-255518-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Java Backend Software Entwickler:in (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "53111",
+            "ort": "Bonn",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.7397568,
+          "laenge": 7.0966417
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "249086",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:09:13.929",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p249086?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Scopevisio",
+      "referenznummer": "13644-249086-S",
+      "entfernung": 25,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-05"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 80000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42103",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.255343893,
+          "laenge": 7.144894813
+        }
+      ],
+      "chiffrenummer": "VA98-95756-W",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-05",
+      "aenderungsdatum": "2026-10-05T07:46:55.832",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU GmbH Niederlassung Wuppertal",
+      "arbeitgeberKundennummerHash": "J6ujHQy7-er5BIgUw5KI7pFjhdFxoILhEbwwibsBn6w=",
+      "referenznummer": "12265-443677_JB5264444-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 60000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "53113",
+            "ort": "Bonn",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.720995613,
+          "laenge": 7.114890791
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-22"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-22",
+      "aenderungsdatum": "2026-10-20T07:04:59.882",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "AMADEUS FIRE AG",
+      "arbeitgeberKundennummerHash": "sSMw56In-JELV7_nIIrbM_h7B_Ko0FM_9oXYEeG6sxs=",
+      "referenznummer": "12862-255403-S",
+      "entfernung": 28,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler * in",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-25"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Johannes-Rau-Platz 1",
+            "plz": "42275",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.271947,
+          "laenge": 7.2001395
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-24"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-24",
+      "aenderungsdatum": "2026-09-24T12:34:13.670",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Stadt Wuppertal",
+      "arbeitgeberKundennummerHash": "woTEfMzw4gQwpY2vVdPei_HaT8VmYheb2ryuGeuc-QU=",
+      "referenznummer": "13763-4357-1797525-0-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Softwareentwickler Embedded (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 48000.0,
+      "gehaltsspanneBis": 55000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51105",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.919110974,
+          "laenge": 6.998735314
+        }
+      ],
+      "chiffrenummer": "VA30-87438-KAUTO",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T07:52:49.069",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU GmbH Niederlassung Wolfsburg Automotive",
+      "arbeitgeberKundennummerHash": "T1aqC9yX5HWAQ3uinBgTiEUz8JW5ooGRfk6Q0ZlY2KY=",
+      "referenznummer": "12265-351844_JB5269633-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Software-Entwickler (m/w) für Web-Applikationen",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Kaiserstraße 40",
+            "plz": "51643",
+            "ort": "Gummersbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.027831,
+          "laenge": 7.564059
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-01",
+      "aenderungsdatum": "2026-09-29T10:04:33.133",
+      "externeURL": "https://www.heyjobs.co/de-de/jobs/1c4c2ba1-75f4-4cd0-bab8-048f1d64350f?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ABUS Kransysteme GmbH",
+      "referenznummer": "12951-1c4c2ba1-75f4-4cd0--S",
+      "entfernung": 42,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Junior) Softwareentwickler:in im Consulting",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Konrad-Adenauer-Ufer",
+            "hausnummer": "7",
+            "plz": "50668",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9449791,
+          "laenge": 6.9627135
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-03-17"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-17",
+      "aenderungsdatum": "2026-10-06T08:32:44.702",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "viadee Unternehmensberatung AG",
+      "arbeitgeberKundennummerHash": "ze09QsDO0k5ZqvEmGPIUJpRfuFEuQGzTmE_vInalH8k=",
+      "referenznummer": "10001-1002780818-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) Intralogistik",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42697",
+            "ort": "Solingen",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.155564278,
+          "laenge": 6.989558478
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-11"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-11",
+      "aenderungsdatum": "2026-10-11T07:46:19.884",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "AUREA GmbH",
+      "arbeitgeberKundennummerHash": "AZ4P9xyXMAZV6b0S9se4kTiWV6MzYQ2p7h-647XJJ_E=",
+      "referenznummer": "13424-53N5MBDPR7AYK8DF-S",
+      "entfernung": 23,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) – Düsseldorf",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "FESTGEHALT",
+      "festgehalt": 74750.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2383035,
+          "laenge": 6.8172724
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-10-14T15:54:54.793",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Primegate Consulting GmbH",
+      "arbeitgeberKundennummerHash": "qyfvRiLDlRzPrMaxGwLpiX-fBFSeHREDl42wSvE0HTs=",
+      "referenznummer": "21206-2610147500366-S",
+      "entfernung": 34,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Java / Javascript (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-11"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50672",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9420611,
+          "laenge": 6.9370567
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-28",
+      "aenderungsdatum": "2026-10-11T07:02:46.297",
+      "externeURL": "https://gute-jobs.de/viewjob-w45s8?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=softwareentwickler-java-javascript-m-w-d",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "ISR Information Products AG",
+      "referenznummer": "12336-a26f813j0301240-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler*in (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40764",
+            "ort": "Langenfeld (Rheinland)",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1110043,
+          "laenge": 6.9588718
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "142831",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:07:35.468",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p142831?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "binaris Informatik",
+      "referenznummer": "13644-142831-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Softwareentwickler Applications (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-24"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 48000.0,
+      "gehaltsspanneBis": 55000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51105",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.919111,
+          "laenge": 6.9987353
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "VA51-18603-KAUTO",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-15"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-15",
+      "aenderungsdatum": "2026-09-24T10:13:25.566",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU GmbH Niederlassung Wolfsburg Automotive",
+      "arbeitgeberKundennummerHash": "T1aqC9yX5HWAQ3uinBgTiEUz8JW5ooGRfk6Q0ZlY2KY=",
+      "referenznummer": "12265-398566_JB5193084-S",
+      "entfernung": 4,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) SPS",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-06"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9455298,
+          "laenge": 6.970144
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-06"
+      },
+      "datumErsteVeroeffentlichung": "2025-06-02",
+      "aenderungsdatum": "2026-10-06T08:29:23.142",
+      "hauptberuf": "SPS-Ingenieur/in",
+      "firma": "F mal s GmbH",
+      "arbeitgeberKundennummerHash": "f6idz9k1WgCwHA-UZlZCJ9tHMESvCnQ5JeJOmsCQS-s=",
+      "referenznummer": "10001-1001471257-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "SPS-Ingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler ERP (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50676",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9307423,
+          "laenge": 6.952315
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "304745",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:09:19.006",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p304745?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "amexus",
+      "referenznummer": "13644-304745-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Interner) Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50676",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9307423,
+          "laenge": 6.952315
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "307297",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:08:29.567",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p307297?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "GUS ERP",
+      "referenznummer": "13644-307297-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Software Entwickler C (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Papiermühle",
+            "hausnummer": "1",
+            "plz": "51766",
+            "ort": "Engelskirchen",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.0143327,
+          "laenge": 7.434391
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-31"
+      },
+      "datumErsteVeroeffentlichung": "2026-08-31",
+      "aenderungsdatum": "2026-10-16T09:56:58.040",
+      "hauptberuf": "Embedded-Systems-Entwickler/in",
+      "alternativBeruf1": "Industriemeister/in - Elektrotechnik (Elektronik)",
+      "alternativBeruf2": "Informationselektroniker/in (mit Schwerpunkten)",
+      "firma": "MDT technologies GmbH",
+      "arbeitgeberKundennummerHash": "s56LKkgMLh_tf9sOBJzZesxbgfC52OmNzws_URSxhtI=",
+      "referenznummer": "10001-1003628068-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Embedded-Systems-Entwickler/in",
+        "Industriemeister/in - Elektrotechnik (Elektronik)",
+        "Informationselektroniker/in (mit Schwerpunkten)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Backend / Plattform – ECM  (m/w/d) ",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-07"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-07"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-07",
+      "aenderungsdatum": "2026-10-07T07:01:12.719",
+      "externeURL": "https://gute-jobs.de/viewjob-ck8vs?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=softwareentwickler-backend-plattform-ecm-m-w-d",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "netgo group GmbH",
+      "referenznummer": "12336-a26f1201j0445120-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) Cloud",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Monheim am Rhein",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.0980707,
+          "laenge": 6.8910176
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "DE-0040106",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T14:25:15.645",
+      "hauptberuf": "Informatiker/in",
+      "firma": "EPLAN GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "xKIuZfKeBQlE80OJ3uRtFx6IR_sM9kbCloKzb3--NQ0=",
+      "referenznummer": "10000-1208357421-S",
+      "entfernung": 17,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50676",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9307423,
+          "laenge": 6.952315
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "246608",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:06:54.506",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p246608?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-premium",
+      "hauptberuf": "IT-Projektkoordinator/in",
+      "alternativBeruf1": "Anwendungsprogrammierer/in",
+      "alternativBeruf2": "Datenbankentwickler/in",
+      "firma": "Infomotion GmbH",
+      "referenznummer": "13644-246608-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Projektkoordinator/in",
+        "Anwendungsprogrammierer/in",
+        "Datenbankentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Softwareentwickler (m/w/d) – Köln",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "FESTGEHALT",
+      "festgehalt": 82586.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9455298,
+          "laenge": 6.970144
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-10-14T15:54:57.748",
+      "hauptberuf": "Embedded-Systems-Entwickler/in",
+      "firma": "Primegate Consulting GmbH",
+      "arbeitgeberKundennummerHash": "qyfvRiLDlRzPrMaxGwLpiX-fBFSeHREDl42wSvE0HTs=",
+      "referenznummer": "21206-2610147500402-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Embedded-Systems-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler:in Java (Homeoffice möglich)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9429544,
+          "laenge": 6.9662139
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-09-23",
+      "aenderungsdatum": "2026-10-19T14:17:15.498",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1001883453-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "C++ Softwareentwickler (m/w/d)",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Graf-Adolf-Str.",
+            "hausnummer": "35-37",
+            "plz": "40210",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.218703,
+          "laenge": 6.7824225
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 40,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-28",
+      "aenderungsdatum": "2026-10-14T13:18:40.732",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "WEAT ELECTRONIC DATENSERVICE GMBH",
+      "arbeitgeberKundennummerHash": "Dh6U-Q2GGulTuSXpRen1ZQHJZxLCCsWGMaXp6iIcHTE=",
+      "referenznummer": "10001-1003455228-S",
+      "entfernung": 32,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) für Automatisierungssysteme",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-18"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50129",
+            "ort": "Bergheim, Erft",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9877084,
+          "laenge": 6.70847
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-18"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-18",
+      "aenderungsdatum": "2026-10-18T08:22:19.003",
+      "externeURL": "https://www.jobware.de/job/064631869?jw_chl_seg=ARBEITSAGENTUR",
+      "hauptberuf": "Elektroniker/in - Automatisierungstechnik (Handwerk)",
+      "firma": "SysTec Systemtechnik und Industrieautomation GmbH",
+      "referenznummer": "12908-064631869-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Elektroniker/in - Automatisierungstechnik (Handwerk)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) C#",
+      "weitereBerufe": [
+        "Developer",
+        ".NET Entwickler",
+        "C# Entwickler"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 50000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Holzstr.",
+            "hausnummer": "2",
+            "plz": "40221",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.212511,
+          "laenge": 6.750261
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-19T16:20:43.235",
+      "hauptberuf": "Backend-Entwickler/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "firma": "FINOVESTA GmbH",
+      "arbeitgeberKundennummerHash": "lIuoyxe-tMDWkZejlmq9spDFwwT-RDEFnE2GasW0_ig=",
+      "referenznummer": "10001-1003840368-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Backend-Entwickler/in",
+        "Developer",
+        ".NET Entwickler",
+        "C# Entwickler"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler (m/w/d) C++",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 90000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Holzstr.",
+            "hausnummer": "2",
+            "plz": "40221",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.212511,
+          "laenge": 6.750261
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-10-20T18:13:42.203",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Fintech-Entwickler/in",
+      "firma": "FINOVESTA GmbH",
+      "arbeitgeberKundennummerHash": "lIuoyxe-tMDWkZejlmq9spDFwwT-RDEFnE2GasW0_ig=",
+      "referenznummer": "10001-1003874534-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Fintech-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler:in im Consulting",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-02"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Konrad-Adenauer-Ufer",
+            "hausnummer": "7",
+            "plz": "50668",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9449791,
+          "laenge": 6.9627135
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-06-01"
+      },
+      "datumErsteVeroeffentlichung": "2025-05-14",
+      "aenderungsdatum": "2026-10-02T11:12:00.093",
+      "hauptberuf": "Informatiker/in",
+      "firma": "viadee Unternehmensberatung AG",
+      "arbeitgeberKundennummerHash": "ze09QsDO0k5ZqvEmGPIUJpRfuFEuQGzTmE_vInalH8k=",
+      "referenznummer": "10000-1202502748-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Programmierer/Entwickler (m/w/d) Software SPS/IPC",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.94552985200005,
+          "laenge": 6.970143988000075
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-10"
+      },
+      "datumErsteVeroeffentlichung": "2025-02-07",
+      "aenderungsdatum": "2026-09-10T12:13:37.105",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "MGA Ingenieurdienstleistungen GmbH",
+      "arbeitgeberKundennummerHash": "sQIxzYyzqgZCjOoFoMyqCRoTZXh8R0FdHlGHFjPHrOI=",
+      "referenznummer": "10001-1000144283-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "LabVIEW Softwareentwickler Testautomatisierung (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-28"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42859",
+            "ort": "Remscheid",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1658744,
+          "laenge": 7.2048535
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "114466",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-25"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-25",
+      "aenderungsdatum": "2026-09-28T11:58:42.154",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Vaillant GmbH",
+      "arbeitgeberKundennummerHash": "-rQwZs6CJ35DN0zgHZu0pjFubgPv2bnM4RusYWJ-fxM=",
+      "referenznummer": "20151-44464153-924-S",
+      "entfernung": 29,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Softwareentwickler (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.248607749,
+          "laenge": 7.165857324
+        }
+      ],
+      "chiffrenummer": "TR-243243",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-27",
+      "aenderungsdatum": "2026-10-19T07:42:57.483",
+      "hauptberuf": "Embedded-Systems-Entwickler/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "firma": "Brunel GmbH NL Wuppertal",
+      "arbeitgeberKundennummerHash": "kzo4ur2tLTeiym95yMY2xsLgpjiKRcuVCBbg_Dq23SY=",
+      "referenznummer": "12362-TR-243243_588552LS-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Embedded-Systems-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler CODESYS (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-18"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.248607749,
+          "laenge": 7.165857324
+        }
+      ],
+      "chiffrenummer": "PR-266710",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-18"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-27",
+      "aenderungsdatum": "2026-10-18T17:20:40.263",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "IT-Entwickler/in (Weiterbildung/Ausbildung)",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "Brunel GmbH NL Wuppertal",
+      "arbeitgeberKundennummerHash": "kzo4ur2tLTeiym95yMY2xsLgpjiKRcuVCBbg_Dq23SY=",
+      "referenznummer": "12362-PR-266710_588544LS-S",
+      "entfernung": 36,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Backend-Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-28"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 68000.0,
+      "gehaltsspanneBis": 87000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42929",
+            "ort": "Wermelskirchen",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1110139,
+          "laenge": 7.2183332
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-09-28T07:53:11.128",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-122674/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Backend-Entwickler/in",
+      "firma": "Prodatic-EDV-Konzepte GmbH",
+      "referenznummer": "11858-SDE-122674-STA-S",
+      "entfernung": 25,
+      "alleBerufe": [
+        "Backend-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Frontend-Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-28"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 58000.0,
+      "gehaltsspanneBis": 68000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42929",
+            "ort": "Wermelskirchen",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1110139,
+          "laenge": 7.2183332
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-28"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-28",
+      "aenderungsdatum": "2026-09-28T07:53:11.058",
+      "externeURL": "https://www.stellenanzeigen.de/job/detail/SDE-122657/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Frontend-Entwickler/in",
+      "firma": "Prodatic-EDV-Konzepte GmbH",
+      "referenznummer": "11858-SDE-122657-STA-S",
+      "entfernung": 25,
+      "alleBerufe": [
+        "Frontend-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler für die Automatisierungstechnik (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Fritz-Kotz-Str.",
+            "hausnummer": "14",
+            "plz": "51674",
+            "ort": "Wiehl",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9652047,
+          "laenge": 7.5280767
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2025-07-10"
+      },
+      "datumErsteVeroeffentlichung": "2025-07-10",
+      "aenderungsdatum": "2026-10-16T09:57:58.603",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Ingenieur/in - Technische Informatik",
+      "alternativBeruf2": "Elektroniker/in - Automatisierungstechnik",
+      "firma": "Unitechnik Systems GmbH",
+      "arbeitgeberKundennummerHash": "EVGtcSN9iMr2vBRgsPhQ9hwsewqjdiDO-ZjC80D9qE4=",
+      "referenznummer": "10000-1203069484-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Ingenieur/in - Technische Informatik",
+        "Elektroniker/in - Automatisierungstechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler:in Java (Homeoffice möglich)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9455299,
+          "laenge": 6.970144
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-09-23",
+      "aenderungsdatum": "2026-10-19T14:14:05.194",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Physiker/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1001883621-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Informatiker/in",
+        "Physiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler:in Machine-/Deep-Learning (Homeoffice möglich)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-09-23",
+      "aenderungsdatum": "2026-10-19T14:18:24.122",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1001883486-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (Mensch*) (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Parkstr.",
+            "hausnummer": "10",
+            "plz": "40699",
+            "ort": "Erkrath",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.227217,
+          "laenge": 6.8949585
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-01",
+      "aenderungsdatum": "2026-10-01T12:14:12.658",
+      "hauptberuf": "Informatiker/in",
+      "alternativBeruf1": "Medieninformatiker/in",
+      "alternativBeruf2": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "Lucom GmbH",
+      "arbeitgeberKundennummerHash": "IhhQ_RtUWUP_0hwLAqQK4PPakaG3UBD0nY-mmS2lcRU=",
+      "referenznummer": "10000-1208121247-S",
+      "entfernung": 31,
+      "alleBerufe": [
+        "Informatiker/in",
+        "Medieninformatiker/in",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Prüfsysteme (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-05"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42279",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.298455455,
+          "laenge": 7.235809137
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-05",
+      "aenderungsdatum": "2026-10-05T08:23:34.191",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "alternativBeruf1": "Ingenieur/in - Automatisierungstechnik",
+      "firma": "K.A.Schmersal GmbH & Co. KG",
+      "arbeitgeberKundennummerHash": "WcfysSg2sR5y5G0IvsG3hcr8Ldso2tCZeUWGJj-xlLo=",
+      "referenznummer": "18249-2026rthc9u2u-000-S",
+      "entfernung": 43,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik",
+        "Ingenieur/in - Automatisierungstechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40212",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2236007,
+          "laenge": 6.782077
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "193865",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:09:09.015",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p193865?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "eurosimtec",
+      "referenznummer": "13644-193865-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler C# (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40212",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2236007,
+          "laenge": 6.782077
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "233667",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:08:17.877",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p233667?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Finovesta",
+      "referenznummer": "13644-233667-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) C++",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40212",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2236007,
+          "laenge": 6.782077
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "164957",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:08:17.780",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p164957?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Finovesta",
+      "referenznummer": "13644-164957-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Entwickler (m/w/d) Embedded Systems Assembler C++",
+      "quereinstiegGeeignet": true,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 55000.0,
+      "gehaltsspanneBis": 75000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Breite Str. 132",
+            "plz": "41238",
+            "ort": "Mönchengladbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.179679,
+          "laenge": 6.4531485
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "#10045",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-02-24"
+      },
+      "datumErsteVeroeffentlichung": "2026-02-24",
+      "aenderungsdatum": "2026-10-14T07:25:00.566",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "alternativBeruf1": "Informatiker/in",
+      "firma": "Scheidt & Bachmann GmbH",
+      "arbeitgeberKundennummerHash": "oOvrE8f-sF2AvEf1NGHyHP7IY_b-ZibxREba9phMJkc=",
+      "referenznummer": "20357-00004b029d9001-S",
+      "entfernung": 44,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung",
+        "Informatiker/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) - Kziff. CL40AV",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "FESTGEHALT",
+      "festgehalt": 65000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40210",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.221641248,
+          "laenge": 6.788751449
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-24",
+      "aenderungsdatum": "2026-09-29T11:45:43.724",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "avivar experts GmbH",
+      "arbeitgeberKundennummerHash": "R5i_y0hJLGxhJHpRIEYcWfGed9f-EvXzI9_gMsNedsQ=",
+      "referenznummer": "10001-1003441079-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler(in) - Schwerpunkt Delphi (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "41061",
+            "ort": "Mönchengladbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1952482,
+          "laenge": 6.4364482
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "295245",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:09:32.925",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p295245?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Lavid Software",
+      "referenznummer": "13644-295245-S",
+      "entfernung": 46,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler:in (m/w/d) – Symfony / Mobile Apps",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 42000.0,
+      "gehaltsspanneBis": 48000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Uhlstr.",
+            "hausnummer": "19-23",
+            "plz": "50321",
+            "ort": "Brühl, Rheinland",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.827284,
+          "laenge": 6.9047325
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-21"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-21",
+      "aenderungsdatum": "2026-10-12T11:26:22.247",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "alternativBeruf2": "Datenbankentwickler/in",
+      "firma": "Coeln Concept GmbH",
+      "arbeitgeberKundennummerHash": "hc2EHaMrTmOj_scCB5ZJ_GcXnPoGaLnlpvLamq5vsXg=",
+      "referenznummer": "10001-1003740234-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Anwendungsprogrammierer/in",
+        "Datenbankentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Low-Code Softwareentwickler Appian (w/m/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-07-10"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51063",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9699987,
+          "laenge": 7.0025389
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "81303",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-10"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-10",
+      "aenderungsdatum": "2026-10-06T17:53:31.300",
+      "hauptberuf": "IT-Berater/in",
+      "firma": "Bechtle AG",
+      "arbeitgeberKundennummerHash": "EJiA5e5WtbxLv88mkzJRHL_DgiNrKSJ6r1oaRKtlSIU=",
+      "referenznummer": "15086-44303103-79-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler/Software Developer (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-08-17"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Kölner Str.",
+            "hausnummer": "41",
+            "plz": "57635",
+            "ort": "Weyerbusch",
+            "region": "RHEINLAND_PFALZ",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.7129949,
+          "laenge": 7.5508116
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-04-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-04-09",
+      "aenderungsdatum": "2026-08-17T10:17:26.345",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Informatiker/in",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "Hottgenroth Software AG",
+      "arbeitgeberKundennummerHash": "zluUQ-yRY6RDDnn7PgAw8BxwkJrW9s7azoMEkHszJLI=",
+      "referenznummer": "10000-1206108192-S",
+      "entfernung": 49,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Informatiker/in",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Embedded Softwareentwickler (m/w/d) – Düsseldorf",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "FESTGEHALT",
+      "festgehalt": 82586.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2383035,
+          "laenge": 6.8172724
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-10-14T15:54:53.270",
+      "hauptberuf": "Embedded-Systems-Entwickler/in",
+      "firma": "Primegate Consulting GmbH",
+      "arbeitgeberKundennummerHash": "qyfvRiLDlRzPrMaxGwLpiX-fBFSeHREDl42wSvE0HTs=",
+      "referenznummer": "21206-2610147500346-S",
+      "entfernung": 34,
+      "alleBerufe": [
+        "Embedded-Systems-Entwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) Softwareentwickler - Developer Productivity & KI (all genders)",
+      "weitereBerufe": [
+        "(Senior) Softwareentwickler/in - Developer Productivity & KI"
+      ],
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 76900.0,
+      "gehaltsspanneBis": 111400.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 50,
+      "chiffrenummer": "26/08-24",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T12:18:08.142",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "DevOps Engineer",
+      "firma": "msg nexinsure ag",
+      "arbeitgeberKundennummerHash": "8JEj290kQEAc8M6_3SFy8Cz5Ajfj_TIwY6NTd3DOlco=",
+      "referenznummer": "10001-1003840689-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "(Senior) Softwareentwickler/in - Developer Productivity & KI",
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Entwicklerin / Software Entwickler (m/w/d) Embedded Systems Assembler (x86) / C++ (Informa…",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-04"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "41061",
+            "ort": "Mönchengladbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1952482,
+          "laenge": 6.4364482
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "280432",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-04"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-04",
+      "aenderungsdatum": "2026-10-04T07:13:16.070",
+      "externeURL": "https://www.get-in-engineering.de/jobsuche/p280432?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Ingenieur/in - Elektrotechnik",
+      "firma": "Scheidt & Bachmann",
+      "referenznummer": "13645-280432-S",
+      "entfernung": 46,
+      "alleBerufe": [
+        "Ingenieur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler C++ / Backend (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "51545",
+            "ort": "Waldbröl",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.8722395,
+          "laenge": 7.607048
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "34603971",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-05"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-05",
+      "aenderungsdatum": "2026-10-16T07:13:10.274",
+      "externeURL": "https://www.persy.jobs/persy/l/job-ji2jn-b",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "TechMinds GmbH",
+      "referenznummer": "12288-4931139468-S",
+      "entfernung": 46,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Softwareentwickler / Fachinformatiker Anwendungsentwicklung (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50321",
+            "ort": "Brühl, Rheinland",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.8223438,
+          "laenge": 6.8990029
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-12"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-12T07:56:40.367",
+      "externeURL": "https://www.yourfirm.de/job/detail/YF-50448/?utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "DEVCON GmbH",
+      "referenznummer": "12117-YF-50448-YF-S",
+      "entfernung": 15,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) mit den Schwerpunkten Datenbanken und Backend-Entwicklung",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-16"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Elisabeth-Selbert-Str.",
+            "hausnummer": "4a",
+            "plz": "40764",
+            "ort": "Langenfeld (Rheinland)",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.122484,
+          "laenge": 6.933933
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 40,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-12",
+      "aenderungsdatum": "2026-10-16T09:22:19.393",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Backend-Entwickler/in",
+      "alternativBeruf2": "Datenbankentwickler/in",
+      "firma": "IBB DV-Systems GmbH",
+      "arbeitgeberKundennummerHash": "qScXTU0fUb6HjXMpE6cGbzvsh-t-7VzjiJRb03tZ-Vc=",
+      "referenznummer": "10001-1003843562-S",
+      "entfernung": 19,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Backend-Entwickler/in",
+        "Datenbankentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler/in C++ / C#/ .NET (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-13"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Reisertstraße 8",
+            "plz": "53773",
+            "ort": "Hennef (Sieg)",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.782914,
+          "laenge": 7.259985
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-31"
+      },
+      "datumErsteVeroeffentlichung": "2025-04-08",
+      "aenderungsdatum": "2026-10-12T17:46:15.055",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Systemprogrammierer/in",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "DIGI Deutschland GmbH",
+      "arbeitgeberKundennummerHash": "ERGN_D_EsQFCBzNEBJc7TnTb2eBEXs3I31UvLsb0Iho=",
+      "referenznummer": "16038-k56879.1699-S",
+      "entfernung": 28,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Systemprogrammierer/in",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Forschungs-IT – Kotlin/JVM & KI (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 58000.0,
+      "gehaltsspanneBis": 67000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "53127",
+            "ort": "Bonn",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.702891954001,
+          "laenge": 7.083924514
+        }
+      ],
+      "chiffrenummer": "A202653360",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-01",
+      "aenderungsdatum": "2026-09-01T15:19:32.673",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "univativ GmbH",
+      "arbeitgeberKundennummerHash": "5xr5ys4-HHJh_j0JVeSE_65eq2F04KYeIXc2NG2ct-Q=",
+      "referenznummer": "19924-967738413-S",
+      "entfernung": 29,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Java Entwickler (m/w/d)",
+      "weitereBerufe": [
+        "Software Engineer (Java) (m/w/d)",
+        "Full Stack Developer (Java) (m/w/d)",
+        "Backend Developer (Java) (m/w/d)"
+      ],
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 48000,
+      "gehaltsspanneBis": 78000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.945529796,
+          "laenge": 6.970143959
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "ANGABE_IN_PROZENT",
+      "homeofficeprozent": 80,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-19",
+      "aenderungsdatum": "2026-10-19T13:20:03.898",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "Backend-Entwickler/in",
+      "alternativBeruf2": "Fachinformatiker/in - Anwendungsentwicklung",
+      "firma": "VISION Consulting GmbH",
+      "arbeitgeberKundennummerHash": "kMyC8r3sVUvVtVE1GW2R9gmzv2BmGpDB7eTw8d7oFGE=",
+      "referenznummer": "10001-1003877689-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "Software Engineer (Java) (m/w/d)",
+        "Backend-Entwickler/in",
+        "Fachinformatiker/in - Anwendungsentwicklung",
+        "Full Stack Developer (Java) (m/w/d)",
+        "Backend Developer (Java) (m/w/d)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Java (m/w/d) - Düsseldorf [Kziff.CL70AV58]",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40472",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.27114191900006,
+          "laenge": 6.818211138000038
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2025-03-12",
+      "aenderungsdatum": "2026-09-29T11:26:03.538",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "avivar experts GmbH",
+      "arbeitgeberKundennummerHash": "R5i_y0hJLGxhJHpRIEYcWfGed9f-EvXzI9_gMsNedsQ=",
+      "referenznummer": "10001-1001237632-S",
+      "entfernung": 37,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler Datenkonvertierung & Integration (C++/Java) (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "BEFRISTET",
+      "befristungInMonaten": 6,
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Bonn",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.707599687,
+          "laenge": 7.11827511
+        }
+      ],
+      "chiffrenummer": "894468/1",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-22",
+      "aenderungsdatum": "2026-10-20T13:36:56.709",
+      "hauptberuf": "Softwareentwickler/in",
+      "alternativBeruf1": "IT-Entwickler/in (Weiterbildung/Ausbildung)",
+      "alternativBeruf2": "Anwendungsprogrammierer/in",
+      "firma": "Hays Professional Solutions GmbH Standort Bonn",
+      "arbeitgeberKundennummerHash": "HdXGkffdXe5hexoHBAyGQk18tdv2E0SQJAzt3R1s3rg=",
+      "referenznummer": "13319-894468/1_623380LS-S",
+      "entfernung": 29,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)",
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT-Systemingenieur (m/w/d) Elektronische Kommunikation in Köln",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50670",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.949384048,
+          "laenge": 6.950542643
+        }
+      ],
+      "chiffrenummer": "JN -092026-81888",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-16T17:04:41.939",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "S27GYt4rIqxdSp-iUcOe6dBAXOf55tqaVMgTyfYFGQ4=",
+      "referenznummer": "12634-BB-646120-7878-2746-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT-Systemingenieur (m/w/d) Elektronische Kommunikation in Köln",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50670",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.949384048,
+          "laenge": 6.950542643
+        }
+      ],
+      "chiffrenummer": "JN -092026-81888",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-16",
+      "aenderungsdatum": "2026-10-16T17:04:41.860",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "S27GYt4rIqxdSp-iUcOe6dBAXOf55tqaVMgTyfYFGQ4=",
+      "referenznummer": "12634-BB-646120-7878-1013-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler (m/w/d) – C#, SQL  im Sondermaschinenbau",
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-07-31"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Echternacher Str.",
+            "hausnummer": "3",
+            "plz": "53842",
+            "ort": "Troisdorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.817969,
+          "laenge": 7.1149095
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-07-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-07-30",
+      "aenderungsdatum": "2026-07-31T11:41:16.322",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "alternativBeruf1": "Bachelor Professional - IT (Softwareentwicklung)",
+      "alternativBeruf2": "Konstrukteur/in - Elektrotechnik",
+      "firma": "ZBV Automation GmbH",
+      "arbeitgeberKundennummerHash": "oD67ETUCAYw3whS3pUFfiOqFue2cbumBd2TokbyT_CA=",
+      "referenznummer": "10001-1003466885-S",
+      "entfernung": 18,
+      "alleBerufe": [
+        "Bachelor Professional - IT (Softwareentwicklung)",
+        "Anwendungsprogrammierer/in",
+        "Konstrukteur/in - Elektrotechnik"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "SPS-Programmierer / SPS-Softwareentwickler (m/w/d) in Wuppertal",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-29"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42369",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.226160985,
+          "laenge": 7.200875325
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-29"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-29",
+      "aenderungsdatum": "2026-09-29T11:48:25.167",
+      "hauptberuf": "SPS-Fachkraft",
+      "alternativBeruf1": "SPS-Ingenieur/in",
+      "firma": "BESTpro Personalkonzepte GmbH",
+      "arbeitgeberKundennummerHash": "3nVLxqsOQtvQn18aVGphM9WB-X1UbEdlfAxIzUQVky0=",
+      "referenznummer": "12057-XVIM04QSJXHP1TWO-S",
+      "entfernung": 35,
+      "alleBerufe": [
+        "SPS-Fachkraft",
+        "SPS-Ingenieur/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT-Systemingenieur (m/w/d) Elektronische Kommunikation in Köln",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-11-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50670",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.949384048,
+          "laenge": 6.950542643
+        }
+      ],
+      "chiffrenummer": "JN -092026-81888",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-13",
+      "aenderungsdatum": "2026-10-13T12:04:08.229",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Akkodis Germany Tech Experts GmbH",
+      "arbeitgeberKundennummerHash": "S27GYt4rIqxdSp-iUcOe6dBAXOf55tqaVMgTyfYFGQ4=",
+      "referenznummer": "12634-BB-646120-7878-6846-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Java Developer | Post-Quanten-Kryptografie (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2740405",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-14"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-14",
+      "aenderungsdatum": "2026-10-14T17:22:14.890",
+      "externeURL": "https://www.jobexport.de/job/5272982.html?exp=81&cid=f2b56e36-282c-47c4-883c-9dd479263103",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Governikus",
+      "referenznummer": "13635-f2b56e36_JB5272982-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Softwareentwickler - Java Enterprise SaaS (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "42283",
+            "ort": "Wuppertal",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2718255,
+          "laenge": 7.1834781
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "44349",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-10-01T07:07:25.581",
+      "externeURL": "https://www.get-in-it.de/jobsuche/p44349?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-basic",
+      "hauptberuf": "Anwendungsprogrammierer/in",
+      "firma": "Talention",
+      "referenznummer": "13644-44349-S",
+      "entfernung": 39,
+      "alleBerufe": [
+        "Anwendungsprogrammierer/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler Microsoft Dynamics 365 Business Central (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-12"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 45000.0,
+      "gehaltsspanneBis": 85000.0,
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "47809",
+            "ort": "Krefeld",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.32671405,
+          "laenge": 6.643559537
+        }
+      ],
+      "chiffrenummer": "VA89-68417-K-CO",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-09"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-09",
+      "aenderungsdatum": "2026-10-09T16:33:03.117",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "FERCHAU Contract GmbH Köln CONTRACT",
+      "arbeitgeberKundennummerHash": "N9QX7VUlTYV7lQGwz_lStW7cKbgYEVADt66yKuzZj_U=",
+      "referenznummer": "12265-523606_JB5269149-S",
+      "entfernung": 48,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "BI Engineer (m/w/d) – Data Engineering & KI-Infrastruktur",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-05",
+      "aenderungsdatum": "2026-10-19T14:29:17.486",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1003800803-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior C# / .net Softwareentwickler (m/w/d)",
+      "quereinstiegGeeignet": true,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": false,
+      "eintrittszeitraum": {
+        "von": "2026-10-14"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "41238",
+            "ort": "Mönchengladbach",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.1659057,
+          "laenge": 6.4800919
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "chiffrenummer": "10447",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-15"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-15",
+      "aenderungsdatum": "2026-10-14T07:25:01.158",
+      "hauptberuf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "alternativBeruf1": "Wirtschaftsinformatiker/in (Hochschule)",
+      "firma": "Scheidt & Bachmann GmbH",
+      "arbeitgeberKundennummerHash": "oOvrE8f-sF2AvEf1NGHyHP7IY_b-ZibxREba9phMJkc=",
+      "referenznummer": "20357-00004b02b7b001-S",
+      "entfernung": 42,
+      "alleBerufe": [
+        "Fachinformatiker/in - Anwendungsentwicklung",
+        "Wirtschaftsinformatiker/in (Hochschule)"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Webentwickler (m/w/d)",
+      "quereinstiegGeeignet": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-03"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 36000,
+      "gehaltsspanneBis": 48000,
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.945529796,
+          "laenge": 6.970143959
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-03"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-03",
+      "aenderungsdatum": "2026-09-03T07:32:19.153",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Laurin Stankusch Vertriebsagentur",
+      "arbeitgeberKundennummerHash": "CL0Ddhj7kK__D-1j_J5JNgrmE82ofLbza-j6yUU6E4E=",
+      "referenznummer": "10001-1003644656-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Softwareentwickler .NET & Mobile (m/w/d) - Xamarin & MAUI Developer",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-24"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "40213",
+            "ort": "Düsseldorf",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 51.2234468,
+          "laenge": 6.7731433
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-23"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-23",
+      "aenderungsdatum": "2026-09-23T17:31:12.097",
+      "externeURL": "https://deutschland-stellenmarkt.de/job_show.php?id=bfa$bfa_11112-46580-1797467-0-S",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "Ratbacher GmbH",
+      "referenznummer": "11112-46580-1797467-0-S",
+      "entfernung": 33,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Anwendungsentwickler C#/.NET (m/w/d)",
+      "quereinstiegGeeignet": true,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Klingerstr.",
+            "hausnummer": "8",
+            "plz": "51143",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.884506,
+          "laenge": 7.063065
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T12:50:00.979",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "GEDICON GmbH",
+      "arbeitgeberKundennummerHash": "qijXyp9DdFkyAu2GDaJPNIj_fppxnfEGzfuU9LpLuGk=",
+      "referenznummer": "10001-1003884757-S",
+      "entfernung": 10,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Software Architect Web-Frontend (m/w/d)",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-12-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50672",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9420611,
+          "laenge": 6.9370567
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "30059158",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-08"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-08",
+      "aenderungsdatum": "2026-10-15T07:26:43.226",
+      "externeURL": "https://www.persy.jobs/persy/l/job-joqa2-b",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "parcIT GmbH",
+      "referenznummer": "13038-4958292129-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT-Systemadministrator:in",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-16",
+      "aenderungsdatum": "2026-10-19T14:21:01.399",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002773798-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Consultant / Developer | Software-Entwicklung (Microsoft Azure) (all genders)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-20"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "strasse": "Am Kabellager",
+            "hausnummer": "11",
+            "plz": "51063",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.968566,
+          "laenge": 7.0107345
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-20"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-20",
+      "aenderungsdatum": "2026-10-20T10:48:37.493",
+      "hauptberuf": "IT-Berater/in",
+      "alternativBeruf1": "Softwareentwickler/in",
+      "firma": "cronos Unternehmensberatung GmbH",
+      "arbeitgeberKundennummerHash": "5O5yVZeETqCNa8KpMf-7VOF7kiHSpscAJaj3XOc7veo=",
+      "referenznummer": "10001-1003883028-S",
+      "entfernung": 3,
+      "alleBerufe": [
+        "Softwareentwickler/in",
+        "IT-Berater/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "System Engineer Automation (m/w/d) || netgo tax",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-09-30"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-30"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-30",
+      "aenderungsdatum": "2026-09-30T07:02:33.876",
+      "externeURL": "https://gute-jobs.de/viewjob-c44y3?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=system-engineer-automation-m-w-d-netgo-tax",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "netgo group GmbH",
+      "referenznummer": "12336-a26f1201j0427136-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Techniker:in Datenkonvertierung im HomeOffice",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-10-19T14:28:46.420",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002227294-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Software Engineer (gn) - GenAI / 100% remote",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-01"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "chiffrenummer": "2684854",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-01"
+      },
+      "datumErsteVeroeffentlichung": "2026-10-01",
+      "aenderungsdatum": "2026-10-01T14:14:46.722",
+      "externeURL": "https://www.jobexport.de/job/5260312.html?exp=81&cid=fbd132a9-3006-4ba9-a9d8-ffe4b49b6cc8",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "workidentity GmbH",
+      "referenznummer": "13635-fbd132a9_JB5260312-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Software Architect (m/w/d) - Consulting",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-27"
+      },
+      "verguetungsangabe": "JAHRESGEHALT",
+      "artDerVerguetung": "GEHALTSSPANNE",
+      "gehaltsspanneVon": 70000.0,
+      "gehaltsspanneBis": 100000.0,
+      "vertragsdauer": "UNBEFRISTET",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50668",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.949340368,
+          "laenge": 6.961136776
+        }
+      ],
+      "veroeffentlichungszeitraum": {
+        "von": "2026-08-13"
+      },
+      "datumErsteVeroeffentlichung": "2026-05-12",
+      "aenderungsdatum": "2026-10-20T12:45:52.046",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "AMADEUS FIRE AG",
+      "arbeitgeberKundennummerHash": "E6_5Hgr9GPhZOvcMTML1l7oEhSX5bOtortuwdZ5o3hM=",
+      "referenznummer": "12862-246627-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "IT-Projektkoordinator:in Software-Einführung",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-10-19T14:29:41.756",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002227298-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "iOS Entwickler:in (Homeoffice möglich)",
+      "arbeitszeitTeilzeitAbend": true,
+      "arbeitszeitTeilzeitNachmittag": true,
+      "arbeitszeitTeilzeitVormittag": true,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9455299,
+          "laenge": 6.970144
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-09-23",
+      "aenderungsdatum": "2026-10-19T14:18:32.880",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1001883604-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Technische:r Projektleiter:in Key Account Management",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-10-19T14:31:03.491",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002227299-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Junior Customer Success Manager:in (deutschlandweit)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-10-19T14:29:31.598",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002227297-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Fullstack-Entwickler:in Schwerpunkt Webentwicklung (Homeoffice möglich)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2025-11-28",
+      "aenderungsdatum": "2026-10-19T14:18:51.404",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002227258-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "(Senior) System Engineer (m/w/d) || netgo tax",
+      "quereinstiegGeeignet": false,
+      "arbeitszeitSchichtNachtWochenende": false,
+      "arbeitszeitTeilzeitAbend": false,
+      "arbeitszeitTeilzeitNachmittag": false,
+      "arbeitszeitTeilzeitVormittag": false,
+      "arbeitszeitTeilzeitFlexibel": false,
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-07"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "KEINE_ANGABE",
+      "istGeringfuegigeBeschaeftigung": false,
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "plz": "50667",
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.938708,
+          "laenge": 6.952988
+        }
+      ],
+      "homeofficemoeglich": false,
+      "veroeffentlichungszeitraum": {
+        "von": "2026-09-16"
+      },
+      "datumErsteVeroeffentlichung": "2026-09-16",
+      "aenderungsdatum": "2026-10-07T07:02:35.030",
+      "externeURL": "https://gute-jobs.de/viewjob-9d3sc?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=senior-system-engineer-m-w-d-netgo-tax",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "netgo group GmbH",
+      "referenznummer": "12336-a26f1201j0427145-S",
+      "entfernung": 2,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    },
+    {
+      "stellenangebotsart": "ARBEIT",
+      "stellenangebotsTitel": "Senior Produktmanager:in für tomedo/ tomedo.air (Homeoffice möglich)",
+      "arbeitszeitVollzeit": true,
+      "eintrittszeitraum": {
+        "von": "2026-10-19"
+      },
+      "verguetungsangabe": "KEINE_ANGABEN",
+      "vertragsdauer": "UNBEFRISTET",
+      "stellenlokationen": [
+        {
+          "adresse": {
+            "ort": "Köln",
+            "region": "NORDRHEIN_WESTFALEN",
+            "land": "DEUTSCHLAND"
+          },
+          "breite": 50.9478863,
+          "laenge": 6.9642163
+        }
+      ],
+      "homeofficemoeglich": true,
+      "homeofficetyp": "NACH_VEREINBARUNG",
+      "veroeffentlichungszeitraum": {
+        "von": "2026-10-19"
+      },
+      "datumErsteVeroeffentlichung": "2026-03-16",
+      "aenderungsdatum": "2026-10-19T14:23:57.028",
+      "hauptberuf": "Softwareentwickler/in",
+      "firma": "zollsoft GmbH    ",
+      "arbeitgeberKundennummerHash": "tpU2b8_iEK2tTuHBLXmgBxKc9J19yGytntSB3y6O1Yo=",
+      "referenznummer": "10001-1002773802-S",
+      "entfernung": 1,
+      "alleBerufe": [
+        "Softwareentwickler/in"
+      ]
+    }
+  ],
+  "maxErgebnisse": 247,
+  "page": 1,
+  "size": 100,
+  "woOutput": {
+    "bereinigterOrt": "Köln",
+    "suchmodus": "UMKREISSUCHE",
+    "koordinaten": [
+      {
+        "lat": 50.9514309,
+        "lon": 6.969884
+      }
+    ]
+  },
+  "facetten": {
+    "verguetung": {
+      "counts": {
+        "jahr": 47
+      },
+      "maxCount": 247
+    },
+    "befristung": {
+      "counts": {
+        "1": 7,
+        "2": 127,
+        "3": 113
+      },
+      "maxCount": 247
+    },
+    "externestellenboersen": {
+      "counts": {
+        "false": 156,
+        "true": 91
+      },
+      "maxCount": 247
+    },
+    "behinderung": {
+      "counts": {
+        "false": 169,
+        "true": 5
+      },
+      "maxCount": 247
+    },
+    "berufsfeld": {
+      "counts": {
+        "Elektrotechnik": 3,
+        "IT-Netzwerktechnik, -Administration, -Organisation": 6,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb": 5,
+        "Informatik": 20,
+        "Mechatronik und Automatisierungstechnik": 2,
+        "Softwareentwicklung und Programmierung": 208,
+        "Technische Mediengestaltung": 1,
+        "Technische Produktionsplanung und -steuerung": 1,
+        "Unternehmensorganisation und -strategie": 1
+      },
+      "maxCount": 247
+    },
+    "pav": {
+      "counts": {
+        "false": 217,
+        "true": 30
+      },
+      "maxCount": 247
+    },
+    "topberuf": {
+      "counts": {
+        "Softwareentwickler/in": 201,
+        "Anwendungsprogrammierer/in": 30,
+        "Mathematisch-technische/r Softwareentwickler/in": 6,
+        "Software-Architect": 12,
+        "Web Developer": 5,
+        "Embedded-Systems-Entwickler/in": 7,
+        "Backend-Entwickler/in": 6,
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)": 5,
+        "Cloud-Architect": 5,
+        "Informatiker/in": 18,
+        "Datenbankentwickler/in": 4,
+        "IT-Lösungsentwickler/in": 3,
+        "Fachinformatiker/in - Anwendungsentwicklung": 10,
+        "IT-Berater/in": 9,
+        "Fullstack-Entwickler/in": 3,
+        "DevOps Engineer": 3,
+        "IT-Projektleiter/in (Weiterbildung/Ausbildung)": 3,
+        "Ingenieur/in - Automatisierungstechnik": 4,
+        "Wirtschaftsinformatiker/in (Hochschule)": 4,
+        "ERP-Berater/in - ERP-Consultant": 3
+      },
+      "scores": {
+        "Softwareentwickler/in": 2123857,
+        "Anwendungsprogrammierer/in": 188953,
+        "Mathematisch-technische/r Softwareentwickler/in": 95816,
+        "Software-Architect": 48406,
+        "Web Developer": 39216,
+        "Embedded-Systems-Entwickler/in": 35500,
+        "Backend-Entwickler/in": 34445,
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)": 16913,
+        "Cloud-Architect": 14967,
+        "Informatiker/in": 14957,
+        "Datenbankentwickler/in": 13266,
+        "IT-Lösungsentwickler/in": 12202,
+        "Fachinformatiker/in - Anwendungsentwicklung": 9630,
+        "IT-Berater/in": 8321,
+        "Fullstack-Entwickler/in": 6920,
+        "DevOps Engineer": 4414,
+        "IT-Projektleiter/in (Weiterbildung/Ausbildung)": 2847,
+        "Ingenieur/in - Automatisierungstechnik": 2091,
+        "Wirtschaftsinformatiker/in (Hochschule)": 1831,
+        "ERP-Berater/in - ERP-Consultant": 908
+      },
+      "maxCount": 247
+    },
+    "arbeitsort": {
+      "counts": {
+        "Solingen": 2,
+        "Sankt Augustin": 2,
+        "Troisdorf": 2,
+        "Hennef (Sieg)": 1,
+        "Jülich": 2,
+        "Erkrath": 1,
+        "Hürth, Rheinland": 1,
+        "Krefeld": 1,
+        "Düsseldorf": 52,
+        "Hilden": 2,
+        "Meckenheim, Rheinland": 5,
+        "Waldbröl": 2,
+        "Bergisch Gladbach": 4,
+        "Lohmar, Rheinland": 2,
+        "Linnich": 1,
+        "Mettmann": 1,
+        "Wuppertal": 14,
+        "Erkelenz": 1,
+        "Neuss": 5,
+        "Köln": 100,
+        "Mönchengladbach": 11,
+        "Lindlar": 1,
+        "Linz am Rhein": 1,
+        "Grevenbroich": 1,
+        "Brühl, Rheinland": 2,
+        "Bonn": 31,
+        "Engelskirchen": 1,
+        "Wermelskirchen": 2,
+        "Bergheim, Erft": 1,
+        "Langenfeld (Rheinland)": 3,
+        "Gummersbach": 2
+      },
+      "maxCount": 247
+    },
+    "ausbildungsart": {
+      "counts": {
+        "0": 1,
+        "1": 3
+      },
+      "maxCount": 247
+    },
+    "veroeffentlichtseit": {
+      "counts": {
+        "0": 6,
+        "1": 12,
+        "14": 68,
+        "28": 106,
+        "7": 31,
+        "alle": 247
+      },
+      "maxCount": 247
+    },
+    "schulbildung": {
+      "counts": {
+        "0": 245,
+        "1": 245,
+        "11": 245,
+        "12": 245,
+        "2": 245,
+        "3": 245,
+        "4": 245,
+        "5": 246,
+        "6": 247
+      },
+      "maxCount": 247
+    },
+    "arbeitsort_plz": {
+      "counts": {
+        "01067": 2,
+        "01237": 2,
+        "01445": 2,
+        "02625": 2,
+        "03046": 6,
+        "04109": 16,
+        "04129": 3,
+        "04157": 1,
+        "06108": 1,
+        "06124": 6,
+        "07589": 2,
+        "07745": 9,
+        "09111": 1,
+        "10115": 9,
+        "10117": 4,
+        "10178": 4,
+        "10245": 1,
+        "10247": 6,
+        "10559": 1,
+        "10625": 3,
+        "10785": 1,
+        "10789": 1,
+        "12159": 2,
+        "12489": 1,
+        "14199": 1,
+        "15344": 1,
+        "18055": 1,
+        "18147": 1,
+        "19061": 1,
+        "20097": 15,
+        "20099": 1,
+        "20354": 6,
+        "20457": 7,
+        "20459": 2,
+        "22083": 1,
+        "22087": 1,
+        "22587": 9,
+        "22767": 1,
+        "24103": 1,
+        "26121": 1,
+        "26127": 1,
+        "26382": 1,
+        "28359": 1,
+        "29221": 1,
+        "30159": 2,
+        "30163": 1,
+        "30165": 1,
+        "30173": 6,
+        "33098": 2,
+        "33100": 1,
+        "33142": 1,
+        "33605": 3,
+        "34117": 1,
+        "37339": 1,
+        "38100": 2,
+        "38440": 3,
+        "39104": 2,
+        "39124": 1,
+        "40210": 10,
+        "40211": 1,
+        "40212": 4,
+        "40213": 3,
+        "40217": 1,
+        "40221": 2,
+        "40468": 7,
+        "40472": 2,
+        "40474": 1,
+        "40476": 1,
+        "40549": 1,
+        "40597": 1,
+        "40699": 1,
+        "40721": 3,
+        "40764": 3,
+        "40822": 1,
+        "40882": 1,
+        "41061": 2,
+        "41069": 1,
+        "41238": 6,
+        "41460": 5,
+        "41515": 1,
+        "41812": 1,
+        "42103": 1,
+        "42119": 2,
+        "42275": 1,
+        "42279": 2,
+        "42283": 2,
+        "42289": 1,
+        "42369": 1,
+        "42477": 1,
+        "42651": 1,
+        "42697": 1,
+        "42859": 1,
+        "42929": 2,
+        "44137": 1,
+        "44139": 3,
+        "44227": 2,
+        "44269": 6,
+        "44787": 6,
+        "45138": 1,
+        "45731": 2,
+        "46325": 1,
+        "47809": 1,
+        "47877": 1,
+        "48143": 3,
+        "48147": 2,
+        "48155": 7,
+        "48157": 1,
+        "48231": 1,
+        "48599": 1,
+        "48683": 1,
+        "49080": 1,
+        "50129": 1,
+        "50259": 1,
+        "50321": 2,
+        "50354": 1,
+        "50667": 12,
+        "50668": 5,
+        "50670": 3,
+        "50672": 2,
+        "50676": 10,
+        "50678": 2,
+        "50679": 1,
+        "50735": 2,
+        "50829": 3,
+        "50931": 1,
+        "50968": 2,
+        "50969": 1,
+        "50996": 1,
+        "51063": 10,
+        "51067": 1,
+        "51069": 1,
+        "51103": 3,
+        "51105": 5,
+        "51143": 1,
+        "51147": 4,
+        "51149": 4,
+        "51429": 1,
+        "51465": 3,
+        "51545": 2,
+        "51643": 2,
+        "51674": 1,
+        "51766": 1,
+        "51789": 1,
+        "52428": 2,
+        "52441": 1,
+        "53111": 4,
+        "53113": 1,
+        "53117": 9,
+        "53119": 8,
+        "53127": 2,
+        "53129": 1,
+        "53175": 1,
+        "53225": 2,
+        "53227": 1,
+        "53340": 5,
+        "53359": 1,
+        "53545": 1,
+        "53721": 1,
+        "53757": 2,
+        "53773": 1,
+        "53797": 2,
+        "53804": 1,
+        "53840": 1,
+        "53842": 1,
+        "54534": 2,
+        "57076": 1,
+        "60311": 3,
+        "60313": 3,
+        "60322": 5,
+        "60439": 2,
+        "60486": 13,
+        "60487": 3,
+        "65760": 7,
+        "68161": 2,
+        "68163": 6,
+        "69126": 3,
+        "70173": 2,
+        "70174": 6,
+        "70178": 2,
+        "70565": 7,
+        "70567": 3,
+        "74653": 2,
+        "76131": 2,
+        "76133": 6,
+        "76275": 3,
+        "80331": 11,
+        "80336": 5,
+        "80637": 8,
+        "80639": 6,
+        "80807": 4,
+        "80992": 2,
+        "81829": 2,
+        "81929": 2,
+        "83026": 3,
+        "85737": 2,
+        "89075": 9,
+        "90402": 10,
+        "90439": 6,
+        "90489": 6,
+        "99091": 3
+      },
+      "maxCount": 247
+    },
+    "arbeitgeber": {
+      "counts": {
+        "360 Consulting GmbH": 1,
+        "ABRACON": 1,
+        "ABUS Kransysteme GmbH": 2,
+        "AMADEUS FIRE AG": 2,
+        "AUREA GmbH": 1,
+        "AXA Konzern AG": 1,
+        "Akkodis Germany Tech Experts GmbH": 3,
+        "Artemeon Management Partner GmbH": 1,
+        "BESTpro Personalkonzepte GmbH": 1,
+        "BLUME-ROLLEN GmbH": 1,
+        "BWI GmbH": 17,
+        "Baker Hughes INTEQ GmbH": 1,
+        "Baker Tilly": 1,
+        "Bank 11": 3,
+        "Bechtle AG": 1,
+        "Bergische Universität Wuppertal": 2,
+        "Berner Omnichannel Trading Holding SE": 2,
+        "Berufsgenossenschaft Handel und Warenlogistik": 1,
+        "BridgingIT GmbH": 3,
+        "Brunel GmbH NL Dortmund": 1,
+        "Brunel GmbH NL Mannheim": 1,
+        "Brunel GmbH NL Wuppertal": 4,
+        "Bundesverwaltungsamt": 1,
+        "Capgemini Deutschland GmbH": 1,
+        "Charisma-Tec GmbH": 1,
+        "Coeln Concept GmbH": 1,
+        "DEVCON GmbH": 1,
+        "DIGI Deutschland GmbH": 1,
+        "DIVERA": 1,
+        "DKV Euro Service GmbH + Co.KG": 1,
+        "DWH Solutions GmbH": 1,
+        "Deutsche Bahn AG": 1,
+        "EPLAN GmbH & Co. KG": 1,
+        "Elettronica GmbH": 1,
+        "Explicatis": 1,
+        "F mal s GmbH": 2,
+        "FERCHAU Contract GmbH Köln CONTRACT": 1,
+        "FERCHAU GmbH Niederlassung Düsseldorf": 1,
+        "FERCHAU GmbH Niederlassung Köln": 1,
+        "FERCHAU GmbH Niederlassung Wolfsburg Automotive": 4,
+        "FERCHAU GmbH Niederlassung Wuppertal": 1,
+        "FINOVESTA GmbH": 2,
+        "Ferdinand Bilstein GmbH & Co. KG": 1,
+        "Finovesta": 2,
+        "Forschungszentrum Jülich GmbH": 1,
+        "Fraunhofer SCAI": 1,
+        "GEDICON GmbH": 1,
+        "GUS ERP": 1,
+        "Governikus": 1,
+        "HDI AG": 2,
+        "Handelsblatt GmbH": 1,
+        "Hays AG": 1,
+        "Hays Professional Solutions GmbH": 1,
+        "Hays Professional Solutions GmbH Standort Bonn": 1,
+        "Heitkamp & Thumann GmbH & Co. KG": 1,
+        "Holz-Richter GmbH": 1,
+        "Hottgenroth Software AG": 1,
+        "IBB DV-Systems GmbH": 1,
+        "INspares GmbH": 1,
+        "ISR Information Products AG": 1,
+        "Improfy GmbH": 1,
+        "Infomotion GmbH": 1,
+        "Information und Technik Nordrhein-Westfalen (IT.NRW)": 1,
+        "Inotec Industrieanlagentechnik GmbH": 1,
+        "Intercon Solutions GmbH": 1,
+        "Interzero CSG GmbH": 2,
+        "Jobsolutions GmbH .": 1,
+        "K.A.Schmersal GmbH & Co. KG": 1,
+        "Kreisverwaltung des EN-Kreises": 1,
+        "Laurin Stankusch Vertriebsagentur": 1,
+        "Lavid Software": 1,
+        "Lucke EDV GmbH": 1,
+        "Lucom GmbH": 1,
+        "MDT technologies GmbH": 1,
+        "MGA Ingenieurdienstleistungen GmbH": 2,
+        "MarkStein Software Entw. u. Vertriebs GmbH": 1,
+        "Midzic Recruiting Einzelunternehmen": 1,
+        "NEW AG": 1,
+        "NTT DATA Business Solutions Global Managed Services GmbH": 3,
+        "NTT DATA Deutschland SE": 3,
+        "NetCologne Gesellschaft für Telekommunikation mbH": 3,
+        "Primegate Consulting GmbH": 3,
+        "Prodatic-EDV-Konzepte GmbH": 2,
+        "Profi Talent Recruitment UG PTR": 3,
+        "Randstad Digital": 6,
+        "Ratbacher GmbH": 2,
+        "Rheinmetall AG": 3,
+        "Scheidt & Bachmann GmbH": 6,
+        "Scopevisio": 2,
+        "VISION Consulting GmbH": 2,
+        "alfatraining Bildungszentrum GmbH": 6,
+        "avivar experts GmbH": 3,
+        "cronos Unternehmensberatung GmbH": 6,
+        "i22 Digitalagentur GmbH": 2,
+        "inovex GmbH": 2,
+        "menten GmbH": 3,
+        "netgo group GmbH": 3,
+        "univativ GmbH": 2,
+        "viadee Unternehmensberatung AG": 2,
+        "zollsoft GmbH    ": 15
+      },
+      "maxCount": 247
+    },
+    "beruf": {
+      "counts": {
+        "Agiler Coach / Scrum Master": 1,
+        "Anwendungsberater/in": 1,
+        "Anwendungsprogrammierer/in": 30,
+        "Anwendungssystemadministrator/in": 2,
+        "Anwendungssystemberater/in": 1,
+        "Bachelor Professional - IT (Softwareentwicklung)": 1,
+        "Backend-Entwickler/in": 6,
+        "Berater/in - digitale Transformation": 1,
+        "Berufsspezialist/in - Softwareentwicklung": 1,
+        "Business-Analyst/in": 2,
+        "Cloud-Architect": 5,
+        "Cloud-Consultant": 1,
+        "Data Scientist": 1,
+        "Datenbankentwickler/in": 4,
+        "DevOps Engineer": 3,
+        "ERP-Berater/in - ERP-Consultant": 3,
+        "Elektroniker/in - Automatisierungstechnik": 1,
+        "Elektroniker/in - Automatisierungstechnik (Handwerk)": 1,
+        "Embedded-Systems-Entwickler/in": 7,
+        "Entwickler/in - Drohnen": 1,
+        "Fachberater/in - Softwaretechniken": 1,
+        "Fachinformatiker/in - Anwendungsentwicklung": 10,
+        "Fintech-Entwickler/in": 1,
+        "Frontend-Entwickler/in": 1,
+        "Fullstack-Entwickler/in": 3,
+        "IT-Administrator/in": 1,
+        "IT-Berater/in": 9,
+        "IT-Entwickler/in (Weiterbildung/Ausbildung)": 5,
+        "IT-Lösungsentwickler/in": 3,
+        "IT-Projektkoordinator/in": 1,
+        "IT-Projektleiter/in (Weiterbildung/Ausbildung)": 3,
+        "IT-Sicherheitskoordinator/in": 1,
+        "Industriemeister/in - Elektrotechnik (Elektronik)": 1,
+        "Informatiker/in": 18,
+        "Informationselektroniker/in (mit Schwerpunkten)": 1,
+        "Ingenieur/in - Automatisierungstechnik": 4,
+        "Ingenieur/in - Elektrotechnik": 3,
+        "Ingenieur/in - Technische Informatik": 1,
+        "Interfacedesigner/in": 1,
+        "IoT-Entwickler/in": 1,
+        "KI-Engineer": 1,
+        "KI-Prompter": 1,
+        "Konstrukteur/in - Elektrotechnik": 1,
+        "Leiter/in - Softwareentwicklung": 1,
+        "Mathematisch-technische/r Softwareentwickler/in": 6,
+        "Medieninformatiker/in": 1,
+        "Physiker/in": 2,
+        "Produktmanager/in": 1,
+        "Projektleiter/in / Projektmanager/in": 1,
+        "Prozessmanager/in - RPA": 1,
+        "Qualitätsmanager/in": 1,
+        "SPS-Fachkraft": 1,
+        "SPS-Ingenieur/in": 2,
+        "Software-Architect": 12,
+        "Softwareentwickler/in": 201,
+        "Systemprogrammierer/in": 2,
+        "Web Developer": 5,
+        "Webdesigner/in": 2,
+        "Wirtschaftsinformatiker/in (Hochschule)": 4,
+        "Wirtschaftsinformatiker/in - IT-Systeme": 1
+      },
+      "maxCount": 247
+    },
+    "homeoffice": {
+      "counts": {
+        "prozentual": 10,
+        "nv_false": 10,
+        "nv_true": 77
+      },
+      "maxCount": 247
+    },
+    "angebotsart": {
+      "counts": {
+        "1": 234,
+        "2": 6,
+        "34": 3,
+        "4": 4
+      },
+      "maxCount": 247
+    },
+    "ausbildungsverguetung": {
+      "counts": {
+        "monat": 1
+      },
+      "maxCount": 247
+    },
+    "branche": {
+      "counts": {
+        "1": 7,
+        "11": 44,
+        "13": 20,
+        "15": 6,
+        "18": 4,
+        "20": 1,
+        "22": 3,
+        "24": 2,
+        "27": 8,
+        "28": 29,
+        "29": 4,
+        "3": 9,
+        "4": 9,
+        "6": 6,
+        "8": 1,
+        "9": 8
+      },
+      "maxCount": 247
+    },
+    "quereinstieg": {
+      "counts": {
+        "false": 237,
+        "true": 10
+      },
+      "maxCount": 247
+    },
+    "arbeitszeit": {
+      "counts": {
+        "tz": 30,
+        "vz": 202
+      },
+      "maxCount": 247
+    },
+    "eintrittsdatum": {
+      "counts": {
+        "10_01_01-now": 224,
+        "26_10_01-26_11_01": 185,
+        "26_11_01-26_12_01": 5,
+        "26_12_01-27_01_01": 3,
+        "27_01_01-27_02_01": 2,
+        "27_02_01-27_03_01": 2,
+        "27_08_01-27_09_01": 1,
+        "27_09_01-27_10_01": 2
+      },
+      "maxCount": 247
+    },
+    "zeitarbeit": {
+      "counts": {
+        "false": 227,
+        "true": 20
+      },
+      "maxCount": 247
+    },
+    "topberufsfeld": {
+      "counts": {
+        "Softwareentwicklung und Programmierung": 208,
+        "Informatik": 20,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb": 5,
+        "IT-Netzwerktechnik, -Administration, -Organisation": 6,
+        "Technische Mediengestaltung": 1
+      },
+      "scores": {
+        "Softwareentwicklung und Programmierung": 1227945,
+        "Informatik": 5733,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb": 605,
+        "IT-Netzwerktechnik, -Administration, -Organisation": 493,
+        "Technische Mediengestaltung": 118
+      },
+      "maxCount": 247
+    }
+  }
+}
