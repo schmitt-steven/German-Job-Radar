@@ -54,8 +54,8 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
     :host {
       display: flex;
       flex-direction: column;
-      gap: 6px;
-      padding: 14px 18px;
+      gap: var(--space-1-5);
+      padding: var(--space-3) var(--space-4);
       border: 1px solid transparent;
       border-radius: var(--radius-card);
       background-color: var(--bg-card);
@@ -97,8 +97,7 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
 
     /*
      * With the columns side by side the selected card reaches over the gap into the details,
-     * and two inverse corners join it to the panel. The 34px are the list's right padding
-     * plus the column gap.
+     * and two inverse corners join it to the panel, see --tab-reach.
      */
     @media (min-width: 1220px) {
       :host(.selected),
@@ -106,8 +105,8 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
         position: relative;
         z-index: 1;
         /* One pixel more than the gap, so no seam shows where card and panel meet. */
-        margin-right: -35px;
-        padding-right: 43px;
+        margin-right: calc(-1 * var(--tab-reach) - 1px);
+        padding-right: calc(var(--tab-reach) + 1px + var(--space-2));
         border-radius: var(--radius-card) 0 0 var(--radius-card);
       }
 
@@ -138,7 +137,7 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
     .title-row {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: var(--space-2);
       min-width: 0;
     }
 
@@ -152,7 +151,7 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
-      font-size: 16px;
+      font-size: var(--text-md);
       font-weight: 500;
       line-height: 1.25;
       color: var(--text-strong);
@@ -162,15 +161,15 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 6px 14px;
-      font-size: 13px;
+      gap: var(--space-1-5) var(--space-3);
+      font-size: var(--text-sm);
       color: var(--text-muted);
     }
 
     .item {
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: var(--space-1);
     }
 
     .item app-icon {
@@ -187,8 +186,8 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
       align-items: center;
       height: 17px;
       padding: 1px 5px 0 6px;
-      border-radius: 4px;
-      font-size: 10px;
+      border-radius: var(--radius-badge);
+      font-size: var(--text-2xs);
       font-weight: 600;
       line-height: 1;
       letter-spacing: 0.1em;
@@ -202,9 +201,9 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
 
     /* Lowercase text needs a larger size and no tracking to stay legible at this height. */
     .badge-neutral {
-      padding: 0 6px;
+      padding: 0 var(--space-1-5);
       background: rgba(255, 255, 255, 0.1);
-      font-size: 11px;
+      font-size: var(--text-xs);
       font-weight: 500;
       letter-spacing: normal;
       color: var(--text-secondary);
@@ -215,10 +214,10 @@ const STATUS_LABELS: Record<JobStatus, string | null> = {
       display: inline-flex;
       align-items: center;
       height: 18px;
-      padding: 0 6px;
+      padding: 0 var(--space-1-5);
       border: 1px solid var(--line-strong);
-      border-radius: 4px;
-      font-size: 11px;
+      border-radius: var(--radius-badge);
+      font-size: var(--text-xs);
       font-weight: 500;
       line-height: 1;
       color: var(--text-muted);

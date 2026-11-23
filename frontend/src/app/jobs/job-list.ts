@@ -30,7 +30,7 @@ export const QUERY_DEBOUNCE_MS = 300;
 
 const TITLES: Record<JobView, string> = {
   ALL: 'Alle Jobs',
-  NEW: 'Neu seit letzter Suche',
+  NEW: 'Neueste Treffer',
   UNSEEN: 'Ungesehen',
   HEARTED: 'Gemerkt',
   APPLIED: 'Beworben',
@@ -106,18 +106,18 @@ const TITLES: Record<JobView, string> = {
       display: flex;
       flex-wrap: wrap;
       align-items: baseline;
-      gap: 12px;
+      gap: var(--space-3);
     }
 
     h1 {
-      font-size: 26px;
+      font-size: var(--text-3xl);
       line-height: 1.15;
     }
 
     ul {
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: var(--space-3);
       margin: 0;
       padding: 0;
       list-style: none;
@@ -132,19 +132,19 @@ const TITLES: Record<JobView, string> = {
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 8px;
-      margin-top: 6px;
+      gap: var(--space-2);
+      margin-top: var(--space-2);
     }
 
     .more button {
       height: 40px;
-      padding: 0 22px;
+      padding: 0 var(--space-5);
       border-radius: var(--radius-button);
       color: var(--text-secondary);
     }
 
     .more p {
-      font-size: 13px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
     }
   `,

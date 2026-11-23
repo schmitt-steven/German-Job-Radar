@@ -50,7 +50,7 @@ describe('Sidebar', () => {
   it('shows the new count on the tile', async () => {
     const element = await renderAt('/');
 
-    expect(element.querySelector('.new-tile')?.textContent).toContain('Neu seit letzter Suche');
+    expect(element.querySelector('.new-tile')?.textContent).toContain('Neueste Treffer');
     expect(element.querySelector('.new-count')?.textContent).toBe('6');
   });
 

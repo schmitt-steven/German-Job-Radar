@@ -35,9 +35,9 @@ interface StatusLineContent {
     :host {
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: var(--space-1-5);
       min-width: 0;
-      font-size: 13px;
+      font-size: var(--text-sm);
       color: var(--text-muted);
     }
 
@@ -45,7 +45,7 @@ interface StatusLineContent {
       flex: none;
       width: 6px;
       height: 6px;
-      margin-right: 4px;
+      margin-right: var(--space-1);
       border-radius: 50%;
       background: var(--fit-low);
     }

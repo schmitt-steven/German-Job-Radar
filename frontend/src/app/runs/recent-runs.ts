@@ -56,15 +56,15 @@ interface RunRow {
     li {
       display: flex;
       flex-direction: column;
-      gap: 3px;
-      padding: 9px 12px 10px 26px;
+      gap: var(--space-0-5);
+      padding: var(--space-2) var(--space-3) var(--space-2) var(--space-6);
     }
 
     .head {
       display: flex;
       justify-content: space-between;
       align-items: baseline;
-      gap: 8px;
+      gap: var(--space-2);
     }
 
     .time {
@@ -79,7 +79,7 @@ interface RunRow {
     }
 
     .outcome {
-      font-size: 12px;
+      font-size: var(--text-sm);
       color: var(--text-muted);
       white-space: nowrap;
     }
@@ -89,7 +89,7 @@ interface RunRow {
     }
 
     .detail {
-      font-size: 12px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
     }
   `,

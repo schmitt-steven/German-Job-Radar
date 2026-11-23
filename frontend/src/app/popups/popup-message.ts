@@ -46,7 +46,7 @@ import { PopupService } from './popup-service';
     .popup {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: var(--space-3);
       height: 40px;
       min-width: 0;
       animation: rise 0.5s cubic-bezier(0.16, 1, 0.3, 1);
@@ -61,7 +61,7 @@ import { PopupService } from './popup-service';
     }
 
     .text {
-      font-size: 13px;
+      font-size: var(--text-sm);
       white-space: nowrap;
     }
 
@@ -75,10 +75,10 @@ import { PopupService } from './popup-service';
     }
 
     .action {
-      height: 30px;
-      padding: 0 12px;
-      border-radius: 8px;
-      font-size: 13px;
+      height: 32px;
+      padding: 0 var(--space-3);
+      border-radius: var(--radius-control);
+      font-size: var(--text-sm);
       font-weight: 500;
     }
 
@@ -86,10 +86,10 @@ import { PopupService } from './popup-service';
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 30px;
-      height: 30px;
+      width: 32px;
+      height: 32px;
       border: none;
-      border-radius: 999px;
+      border-radius: var(--radius-pill);
       background: transparent;
       color: var(--text-muted);
       cursor: pointer;

@@ -37,7 +37,7 @@ const VIEW_LINKS: ViewLink[] = [
       [queryParams]="params('NEW')"
       [attr.aria-current]="currentView() === 'NEW' ? 'page' : null"
     >
-      <span>Neu seit letzter Suche</span>
+      <span>Neueste Treffer</span>
       <span class="new-count">{{ counts()?.NEW }}</span>
     </a>
 
@@ -76,8 +76,8 @@ const VIEW_LINKS: ViewLink[] = [
       flex: 1 1 236px;
       display: flex;
       flex-direction: column;
-      gap: 28px;
-      padding: 22px 14px 18px 0;
+      gap: var(--space-7);
+      padding: var(--space-6) var(--space-4) var(--space-5) 0;
       border-radius: 0 var(--radius-panel) var(--radius-panel) 0;
       background: var(--bg-sidebar);
     }
@@ -90,8 +90,8 @@ const VIEW_LINKS: ViewLink[] = [
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 14px;
-      padding: 12px 14px 12px 28px;
+      gap: var(--space-3);
+      padding: var(--space-3) var(--space-3) var(--space-3) var(--space-6);
       border-radius: 0 var(--radius-button) var(--radius-button) 0;
       border: 1px solid rgba(255, 255, 255, 0.07);
       border-left: none;
@@ -116,7 +116,7 @@ const VIEW_LINKS: ViewLink[] = [
 
     .new-count {
       font-family: var(--font-display);
-      font-size: 29px;
+      font-size: var(--text-4xl);
       font-weight: 400;
       line-height: 1.1;
     }
@@ -130,9 +130,9 @@ const VIEW_LINKS: ViewLink[] = [
     .view-link {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: var(--space-2);
       height: 36px;
-      padding: 0 12px 0 26px;
+      padding: 0 var(--space-3) 0 var(--space-6);
       border-radius: 0 var(--radius-control) var(--radius-control) 0;
       transition: background 0.15s;
     }
@@ -148,7 +148,7 @@ const VIEW_LINKS: ViewLink[] = [
 
     /* Brighter than the mock's #736C62, which misses the AA contrast at 12px. */
     .view-link .count {
-      font-size: 12px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
     }
 
@@ -169,17 +169,19 @@ const VIEW_LINKS: ViewLink[] = [
 
     .divider {
       height: 1px;
-      margin: 6px 12px 6px 26px;
+      margin: var(--space-1-5) var(--space-3) var(--space-1-5) var(--space-6);
       background: rgba(255, 255, 255, 0.06);
     }
 
     .settings {
       margin-top: auto;
+      /* Its content is shorter than 40px, so in a short window it would shrink. */
+      flex-shrink: 0;
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: var(--space-2);
       height: 40px;
-      padding: 0 12px 0 26px;
+      padding: 0 var(--space-3) 0 var(--space-6);
       border-radius: 0 var(--radius-control) var(--radius-control) 0;
       border: 1px solid rgba(255, 255, 255, 0.1);
       border-left: none;

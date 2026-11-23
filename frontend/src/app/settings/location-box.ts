@@ -135,7 +135,7 @@ export function suggestionLabel(suggestion: PlaceSuggestion): string {
     :host {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: var(--space-2);
     }
 
     .anchor {
@@ -184,13 +184,13 @@ export function suggestionLabel(suggestion: PlaceSuggestion): string {
       height: 100%;
       min-width: 0;
       margin: 0;
-      padding: 0 12px;
+      padding: 0 var(--space-3);
       border: none;
       border-radius: 0;
       background-color: transparent;
       color: var(--text);
       font: inherit;
-      font-size: 14px;
+      font-size: var(--text-base);
       outline: none;
     }
 
@@ -222,10 +222,10 @@ export function suggestionLabel(suggestion: PlaceSuggestion): string {
       max-height: 360px;
       overflow-y: auto;
       margin: 0;
-      padding: 6px;
+      padding: var(--space-1);
       list-style: none;
       border: 1px solid var(--line);
-      border-radius: var(--radius-button);
+      border-radius: var(--radius-card);
       background: var(--bg-dialog);
       box-shadow: var(--shadow-panel);
     }
@@ -238,9 +238,9 @@ export function suggestionLabel(suggestion: PlaceSuggestion): string {
       display: flex;
       align-items: baseline;
       justify-content: space-between;
-      gap: 12px;
+      gap: var(--space-3);
       min-height: 36px;
-      padding: 8px 10px;
+      padding: var(--space-2) var(--space-2);
       border-radius: var(--radius-control);
       color: var(--text);
       cursor: pointer;
@@ -252,13 +252,13 @@ export function suggestionLabel(suggestion: PlaceSuggestion): string {
     }
 
     .district {
-      font-size: 12.5px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
       white-space: nowrap;
     }
 
     .message {
-      font-size: 12.5px;
+      font-size: var(--text-sm);
       line-height: 1.5;
       color: var(--text-dim);
     }

@@ -25,8 +25,8 @@ import { JobDetails } from './job-details';
       min-width: 0;
       display: flex;
       flex-direction: column;
-      gap: 14px;
-      padding: 22px 22px 32px;
+      gap: var(--space-4);
+      padding: var(--column-padding) var(--column-padding) var(--space-8);
     }
 
     @media (min-width: 1220px) {
@@ -35,13 +35,13 @@ import { JobDetails } from './job-details';
         overscroll-behavior: none;
         /* Reaches under the details by the gap plus 1px, so the selected card isn't clipped where it joins the panel. */
         margin-right: calc(-1 * var(--columns-gap) - 1px);
-        padding-right: calc(22px + var(--columns-gap) + 1px);
+        padding-right: calc(var(--column-padding) + var(--columns-gap) + 1px);
       }
     }
 
     .details {
       flex: 999 1 420px;
-      padding: 26px 28px 40px;
+      padding: var(--panel-padding) var(--panel-padding) var(--space-10);
       border-radius: var(--radius-panel) 0 0 var(--radius-panel);
       background: var(--bg-details);
     }

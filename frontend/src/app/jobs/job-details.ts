@@ -172,13 +172,13 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     :host {
       display: flex;
       flex-direction: column;
-      gap: 40px;
+      gap: var(--space-10);
     }
 
     header {
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: var(--space-3);
     }
 
     /* The buttons move below the title once it would get narrower than 300px. */
@@ -186,13 +186,13 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
       display: flex;
       flex-wrap: wrap;
       align-items: flex-start;
-      gap: 12px 16px;
+      gap: var(--space-3) var(--space-4);
     }
 
     h2 {
       flex: 1 1 300px;
       min-width: 0;
-      font-size: 31px;
+      font-size: var(--text-4xl);
       line-height: 1.15;
       letter-spacing: -0.01em;
       text-wrap: balance;
@@ -204,18 +204,18 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     .reactions {
       flex: none;
       display: flex;
-      gap: 6px;
+      gap: var(--space-1-5);
       margin-top: -1px;
     }
 
     .reactions button {
       display: flex;
       align-items: center;
-      gap: 8px;
-      height: 38px;
-      padding: 0 14px 0 12px;
+      gap: var(--space-2);
+      height: 36px;
+      padding: 0 var(--space-4) 0 var(--space-3);
       border-radius: var(--radius-button);
-      font-size: 13px;
+      font-size: var(--text-sm);
       font-weight: 500;
       cursor: pointer;
     }
@@ -285,18 +285,18 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
 
     .error {
       margin: 0;
-      font-size: 13px;
+      font-size: var(--text-sm);
       color: var(--red-text);
     }
 
     .status {
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: var(--space-3);
     }
 
     .status h3 {
-      font-size: 22px;
+      font-size: var(--text-2xl);
       line-height: 1.2;
     }
 
@@ -308,12 +308,12 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     .step {
       display: flex;
       align-items: center;
-      gap: 9px;
+      gap: var(--space-2);
       height: 36px;
-      padding: 0 4px;
+      padding: 0 var(--space-1);
       border: 0;
       background: none;
-      font-size: 13px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
       cursor: pointer;
     }
@@ -363,7 +363,7 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
       flex: 1;
       min-width: 16px;
       height: 1px;
-      margin: 0 8px;
+      margin: 0 var(--space-2);
       background: rgba(236, 233, 226, 0.22);
     }
 
@@ -376,19 +376,19 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 4px 8px;
+      gap: var(--space-1) var(--space-2);
       color: var(--text-muted);
-      font-size: 14px;
+      font-size: var(--text-base);
     }
 
     .meta {
-      column-gap: 16px;
+      column-gap: var(--space-4);
     }
 
     .item {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: var(--space-1-5);
     }
 
     .item app-icon {
@@ -396,9 +396,9 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     }
 
     .sources {
-      padding-top: 6px;
-      gap: 4px 14px;
-      font-size: 12.5px;
+      padding-top: var(--space-1-5);
+      gap: var(--space-1) var(--space-3);
+      font-size: var(--text-sm);
     }
 
     .label,
@@ -409,7 +409,7 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     .source {
       display: inline-flex;
       align-items: baseline;
-      gap: 6px;
+      gap: var(--space-1-5);
     }
 
     .source a {
@@ -430,9 +430,9 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
       display: inline-flex;
       align-items: center;
       height: 18px;
-      padding: 0 6px;
-      border-radius: 4px;
-      font-size: 11px;
+      padding: 0 var(--space-1-5);
+      border-radius: var(--radius-badge);
+      font-size: var(--text-xs);
       font-weight: 500;
       white-space: nowrap;
     }
@@ -450,7 +450,7 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     .description {
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      gap: var(--space-5);
     }
 
     .description p {
@@ -461,16 +461,16 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
       display: flex;
       flex-wrap: wrap;
       align-items: baseline;
-      gap: 8px 16px;
+      gap: var(--space-2) var(--space-4);
     }
 
     .description h3 {
-      font-size: 22px;
+      font-size: var(--text-2xl);
       line-height: 1.2;
     }
 
     .source-note {
-      font-size: 12px;
+      font-size: var(--text-sm);
       color: var(--text-muted);
     }
 
@@ -484,7 +484,7 @@ const STEPS: readonly { status: JobStatus; label: string }[] = [
     .loading {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: var(--space-2);
       color: var(--text-muted);
     }
 

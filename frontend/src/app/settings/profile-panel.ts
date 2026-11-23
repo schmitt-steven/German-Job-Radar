@@ -148,31 +148,31 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
       flex: 1 0 auto;
       display: flex;
       flex-direction: column;
-      gap: 40px;
+      gap: var(--space-10);
       max-width: 720px;
     }
 
     header {
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: var(--space-2);
     }
 
     h2 {
-      font-size: 31px;
+      font-size: var(--text-4xl);
       line-height: 1.15;
       letter-spacing: -0.01em;
     }
 
     h3 {
-      font-size: 22px;
+      font-size: var(--text-2xl);
       line-height: 1.2;
     }
 
     .intro {
       margin: 0;
       max-width: 560px;
-      font-size: 14.5px;
+      font-size: var(--text-base);
       line-height: 1.6;
       color: var(--text-muted);
     }
@@ -180,35 +180,35 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
     form {
       display: flex;
       flex-direction: column;
-      gap: 40px;
+      gap: var(--space-10);
     }
 
     .group {
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: var(--space-3);
     }
 
     .title-row {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: var(--space-2);
     }
 
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 16px;
+      gap: var(--space-4);
     }
 
     .field {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: var(--space-2);
     }
 
     .label {
-      font-size: 13px;
+      font-size: var(--text-sm);
       font-weight: 500;
       color: var(--text-secondary);
     }
@@ -217,9 +217,9 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
       display: inline-flex;
       align-items: center;
       height: 20px;
-      padding: 0 8px;
+      padding: 0 var(--space-2);
       border-radius: var(--radius-pill);
-      font-size: 11.5px;
+      font-size: var(--text-xs);
       font-weight: 500;
       white-space: nowrap;
     }
@@ -242,14 +242,14 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
       right: 12px;
       top: 0;
       line-height: 40px;
-      font-size: 13px;
+      font-size: var(--text-sm);
       color: var(--text-dim);
       pointer-events: none;
     }
 
     .hint {
       margin: 0;
-      font-size: 12.5px;
+      font-size: var(--text-sm);
       line-height: 1.5;
       color: var(--text-dim);
     }
@@ -267,7 +267,7 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
       flex-wrap: wrap;
       align-items: center;
       gap: 12px;
-      padding: 12px 14px;
+      padding: var(--space-3) var(--space-3);
       border-radius: var(--radius-card);
       background: rgba(229, 115, 111, 0.11);
       color: var(--red-text);
@@ -275,13 +275,13 @@ function wholeNumber(control: AbstractControl<number | null>): ValidationErrors 
 
     .load-error button {
       height: 40px;
-      padding: 0 16px;
+      padding: 0 var(--space-4);
       border-radius: var(--radius-button);
       font-weight: 500;
     }
 
     .osm-notice {
-      padding-top: 20px;
+      padding-top: var(--space-5);
       border-top: 1px solid var(--line-faint);
     }
   `,

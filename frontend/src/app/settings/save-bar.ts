@@ -38,10 +38,10 @@ const TITLES: Record<SaveState, string> = {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 10px 16px;
+      gap: var(--space-2) var(--space-4);
       /* Spans the panel's side padding. */
-      margin: 32px -28px 0;
-      padding: 12px 28px 16px;
+      margin: var(--space-8) calc(-1 * var(--panel-padding)) 0;
+      padding: var(--space-3) var(--panel-padding) var(--space-4);
       background: var(--bg-details);
     }
 
@@ -62,14 +62,14 @@ const TITLES: Record<SaveState, string> = {
       min-width: 0;
       display: flex;
       align-items: flex-start;
-      gap: 10px;
+      gap: var(--space-2);
     }
 
     .dot {
       flex: none;
       width: 7px;
       height: 7px;
-      margin-top: 6px;
+      margin-top: var(--space-1-5);
       border-radius: 50%;
       background: var(--fit-low);
     }
@@ -77,18 +77,18 @@ const TITLES: Record<SaveState, string> = {
     .text {
       display: flex;
       flex-direction: column;
-      gap: 2px;
+      gap: var(--space-0-5);
       min-width: 0;
     }
 
     .title {
-      font-size: 14px;
+      font-size: var(--text-base);
       font-weight: 500;
       color: var(--text-muted);
     }
 
     .reason {
-      font-size: 12.5px;
+      font-size: var(--text-sm);
       line-height: 1.5;
       color: var(--text-muted);
     }

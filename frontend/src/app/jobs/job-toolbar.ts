@@ -60,7 +60,7 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
     :host {
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: var(--space-3);
     }
 
     .search {
@@ -69,8 +69,8 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
 
     app-icon {
       position: absolute;
-      left: 14px;
-      top: 13px;
+      left: 12px;
+      top: 12px;
       color: var(--text-dim);
       transition: color 0.15s;
     }
@@ -83,7 +83,7 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 8px;
+      gap: var(--space-2);
     }
 
     .field {
@@ -111,12 +111,12 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
 
     input {
       width: 100%;
-      height: 42px;
-      padding: 0 14px 0 40px;
+      height: 40px;
+      padding: 0 var(--space-3) 0 var(--space-10);
       border-radius: var(--radius-button);
       background-color: var(--bg-input);
       color: var(--text);
-      font-size: 14px;
+      font-size: var(--text-base);
     }
 
     input::placeholder {
@@ -128,9 +128,9 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
       --arrow: var(--text-dim);
       width: 180px;
       max-width: 100%;
-      height: 34px;
+      height: 32px;
       text-overflow: ellipsis;
-      padding: 0 30px 0 10px;
+      padding: 0 var(--space-8) 0 var(--space-3);
       border-radius: var(--radius-control);
       background-color: var(--bg-select);
       background-image:
@@ -142,7 +142,7 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
       background-size: 4px 4px;
       background-repeat: no-repeat;
       color: var(--text-secondary);
-      font-size: 13px;
+      font-size: var(--text-sm);
       appearance: none;
       cursor: pointer;
     }
@@ -160,11 +160,11 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
     @media (min-width: 1220px) {
       :host {
         position: sticky;
-        /* Sticks at the list's top edge, not below its 22px top padding. */
-        top: -22px;
+        /* Sticks at the list's top edge, not below its top padding. */
+        top: calc(-1 * var(--column-padding));
         z-index: 3;
-        margin: -14px -34px 0 -22px;
-        padding: 14px 34px 12px 22px;
+        margin: calc(-1 * var(--space-4)) calc(-1 * var(--tab-reach)) 0 calc(-1 * var(--column-padding));
+        padding: var(--space-4) var(--tab-reach) var(--space-3) var(--column-padding);
         background: var(--bg-page);
       }
 
@@ -175,7 +175,7 @@ function withSelectedValue(options: string[], picked: string | null): string[] {
         left: 0;
         right: 0;
         top: 100%;
-        height: 14px;
+        height: 16px;
         background: linear-gradient(var(--bg-page), rgba(18, 17, 15, 0));
         pointer-events: none;
       }

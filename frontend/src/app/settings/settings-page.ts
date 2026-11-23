@@ -33,15 +33,15 @@ import { ProfilePanel } from './profile-panel';
       min-width: 0;
       display: flex;
       flex-direction: column;
-      gap: 14px;
-      padding: 22px 22px 32px;
+      gap: var(--space-4);
+      padding: var(--column-padding) var(--column-padding) var(--space-8);
     }
 
     h1 {
       margin: 0;
       font-family: var(--font-display);
       font-weight: 400;
-      font-size: 26px;
+      font-size: var(--text-3xl);
       line-height: 1.15;
       color: var(--text-strong);
     }
@@ -49,19 +49,19 @@ import { ProfilePanel } from './profile-panel';
     nav {
       display: flex;
       flex-direction: column;
-      gap: 10px;
-      padding-top: 14px;
+      gap: var(--space-3);
+      padding-top: var(--space-3);
     }
 
     .card {
       display: block;
-      padding: 14px 18px;
+      padding: var(--space-3) var(--space-4);
       border: 1px solid transparent;
       border-radius: var(--radius-card);
       background-color: var(--bg-card);
       box-shadow: var(--shadow-card);
       color: var(--text-strong);
-      font-size: 16px;
+      font-size: var(--text-md);
       font-weight: 500;
       line-height: 1.25;
       text-decoration: none;
@@ -97,7 +97,7 @@ import { ProfilePanel } from './profile-panel';
       display: flex;
       flex-direction: column;
       /* No bottom padding, the save bar sits at the bottom edge. */
-      padding: 26px 28px 0;
+      padding: var(--panel-padding) var(--panel-padding) 0;
       border-radius: var(--radius-panel) 0 0 var(--radius-panel);
       background: var(--bg-details);
     }
@@ -109,8 +109,8 @@ import { ProfilePanel } from './profile-panel';
         position: relative;
         z-index: 1;
         /* The overview's right padding plus the column gap. */
-        margin-right: -34px;
-        padding-right: 42px;
+        margin-right: calc(-1 * var(--tab-reach));
+        padding-right: calc(var(--tab-reach) + var(--space-2));
         border-radius: var(--radius-card) 0 0 var(--radius-card);
       }
 

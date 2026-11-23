@@ -19,13 +19,13 @@ import { IconName } from '../icons/icon-paths';
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 8px;
-      padding: 48px 20px;
+      gap: var(--space-2);
+      padding: var(--space-12) var(--space-5);
       text-align: center;
     }
 
     app-icon {
-      margin-bottom: 6px;
+      margin-bottom: var(--space-1-5);
       color: var(--text-dim);
     }
 
@@ -36,7 +36,7 @@ import { IconName } from '../icons/icon-paths';
 
     .headline {
       font-family: var(--font-display);
-      font-size: 20px;
+      font-size: var(--text-xl);
       line-height: 1.2;
       color: var(--text);
     }

@@ -53,8 +53,8 @@ import { parseDescription } from './description-format';
     :host {
       display: flex;
       flex-direction: column;
-      gap: 14px;
-      font-size: 15px;
+      gap: var(--space-4);
+      font-size: var(--text-md);
       line-height: 1.7;
       color: var(--text-secondary);
     }
@@ -76,21 +76,21 @@ import { parseDescription } from './description-format';
 
     /* Only real Markdown headings get a size, a detected subheading may be wrong. */
     h4.subheading {
-      margin-top: 10px;
+      margin-top: var(--space-2);
       font-size: inherit;
       font-weight: 600;
     }
 
     h4.level-1 {
       font-family: var(--font-display);
-      font-size: 22px;
+      font-size: var(--text-2xl);
       font-weight: 400;
     }
 
     h4.level-2 {
-      margin-top: 10px;
+      margin-top: var(--space-2);
       font-family: var(--font-display);
-      font-size: 19px;
+      font-size: var(--text-xl);
       font-weight: 400;
     }
 
@@ -98,16 +98,16 @@ import { parseDescription } from './description-format';
     h4.level-4,
     h4.level-5,
     h4.level-6 {
-      margin-top: 10px;
-      font-size: 16px;
+      margin-top: var(--space-2);
+      font-size: var(--text-lg);
       font-weight: 600;
     }
 
     ul {
       display: flex;
       flex-direction: column;
-      gap: 6px;
-      padding-left: 22px;
+      gap: var(--space-1-5);
+      padding-left: var(--space-6);
       list-style: disc;
     }
 

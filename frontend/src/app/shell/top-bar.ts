@@ -67,9 +67,9 @@ const BLOCKED_HINTS: Record<SearchBlockedReason, string> = {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 20px;
+      gap: var(--space-5);
       min-height: var(--top-bar-height);
-      padding: 10px 24px;
+      padding: var(--space-3) var(--space-6);
       background: var(--bg-page);
     }
 
@@ -82,9 +82,9 @@ const BLOCKED_HINTS: Record<SearchBlockedReason, string> = {
     }
 
     .wordmark {
-      padding-right: 12px;
+      padding-right: var(--space-3);
       font-weight: 600;
-      font-size: 16px;
+      font-size: var(--text-md);
       letter-spacing: -0.005em;
       color: var(--text-strong);
     }
@@ -92,9 +92,9 @@ const BLOCKED_HINTS: Record<SearchBlockedReason, string> = {
     .search-button {
       display: flex;
       align-items: center;
-      gap: 9px;
+      gap: var(--space-2);
       height: 40px;
-      padding: 0 18px;
+      padding: 0 var(--space-4) 0 var(--space-3);
       border-radius: var(--radius-button);
       font-weight: 600;
       letter-spacing: 0.01em;
@@ -102,8 +102,8 @@ const BLOCKED_HINTS: Record<SearchBlockedReason, string> = {
 
     /* Pulls the hint next to the button, the bar's gap is meant for the main parts. */
     .hint {
-      margin-left: -10px;
-      font-size: 13px;
+      margin-left: calc(-1 * var(--space-2));
+      font-size: var(--text-sm);
       color: var(--text-dim);
     }
 
